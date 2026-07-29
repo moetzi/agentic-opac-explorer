@@ -23,7 +23,7 @@ Generation dengan komponen:
 - **Runtime Similarity** — tidak ada edge `SIMILAR_TO` pre-computed (sudah
   dihapus dari skema); kemiripan antar buku dihitung KNN murni saat runtime
   atas `book_vector_index`
-- **Vector-Gated Agentic ReAct loop** — router rule-based memutuskan
+- **Search-Space-Gated Agentic ReAct loop** — router rule-based memutuskan
   vector front-door vs seed lookup terstruktur sebelum loop dimulai, lalu
   agen otonom mengkurasi pool lewat tool apapun, urutan apapun, dan
   berhenti kapanpun (Router → Reasoner ⇄ ToolExecutor → Responder)

@@ -11,15 +11,12 @@
 7. [Hasil Evaluasi](./hasil.md)
 8. [Deployment & Konfigurasi](./deployment.md)
 9. [API & Antarmuka](./antarmuka.md)
-10. [Legacy: arsitektur 7-node](../legacy/README.md)
-11. [Catatan Riset: Agentic vs Sequential](./catatan_riset.md)
-
 ---
 
 ## Gambaran Umum
 
 **Agentic GraphRAG** adalah sistem rekomendasi buku berbasis Retrieval-Augmented
-Generation yang mengikuti pola **hybrid GraphRAG**:
+Generation dengan komponen:
 
 - **Knowledge Graph** (Neo4j) — multi-hop traversal atas ontologi buku
 - **Vector Search** (E5 Embedding LazarusNLP, 384-dim) — semantic retrieval
@@ -61,7 +58,7 @@ ke Neo4j dengan embedding vektor.
 | Knowledge Graph | Neo4j 5.25 Community + APOC |
 | Vector DB | Neo4j Vector Index (cosine, 384 dims) |
 | Embedding Model | LazarusNLP/all-indo-e5-small-v4 |
-| LLM | Llama 3.1 (8B) via Ollama / Groq |
+| LLM | Llama 3.1 (8B) via Ollama |
 | Orchestration | Python 3.12 (sequential ReAct loop) |
 | State Management | Pydantic v2 (immutable AgentState) |
 | Data Pipeline | Pandas + MinIO (S3-compatible) |
@@ -89,18 +86,6 @@ agentic-graphrag/
 │       ├── __init__.py          # Re-export dari tools_catalog.py
 │       ├── tools_catalog.py     # CYPHER_TOOLS (31 tool) + SEED/MULTIHOP/CURATION slices
 │       └── vector_tool.py       # E5 + Neo4j vector index (langsung, dedup-by-title)
-│
-├── legacy/                      # Arsitektur historis, masih runnable
-│   ├── README.md
-│   ├── agent_v1/                # Self-contained snapshot 7-node lama
-│   │   ├── core/                # state.py, workflow.py
-│   │   ├── nodes/               # router, tools_controller, reranker,
-│   │   │                        # content_assembly, generation, policy_loop
-│   │   ├── services/
-│   │   └── tools/                # termasuk graph_tool.py (GraphSearchTool class)
-│   └── agent_v2/                 # Snapshot 3-node ReAct pra-vector-gating
-│       ├── core/, nodes/, services/, tools/   # termasuk graph_tool.py
-│
 ├── frontend/                    # Antarmuka utama: React 18 + Vite + Tailwind
 │   └── src/                     # App.tsx (chat), Admin.tsx (switch mode/model), api.ts
 ├── app_web/                     # Backend FastAPI (API-only) untuk React — mandiri
@@ -109,21 +94,16 @@ agentic-graphrag/
 │   ├── response_cache.py        # Cache respons penuh (namespace per mode+model)
 │   ├── query_log.py             # Log kueri append-only (JSONL, analisis latency)
 │   └── examples.py              # EXAMPLE_QUERIES (contoh kueri untuk /api/examples)
-├── deprecated/                  # UI lama yang dipensiunkan — bukan bagian live app
-│   ├── streamlit/               # Streamlit UI lama (streamlit_app, session_memory, query_cache)
-│   └── vanilla_js/              # Vanilla JS UI lama (dulu di-host app_web di /)
 ├── data_pipeline/               # ETL pipeline (Bronze → Silver → Gold)
 ├── docker/
 │   └── docker-compose.yml       # Neo4j 5.25
 ├── evaluation/
 │   ├── run_comparative_evaluation.py   # Phase 1: 3-pipeline offline metrics
-│   ├── ragas_evaluation.py             # Phase 2: LLM-as-judge (Faithfulness, Answer Relevance)
+│   ├── judge_manual_evaluation.py             # Phase 2: LLM-as-judge (Faithfulness, Answer Relevance)
 │   └── ground_truth.json               # 30 ground truth queries
 ├── shared/
 │   └── schema/
-│       ├── neo4j_schema.py
-│       └── cypher_templates.py  # 24 Cypher template (single-hop, multi-hop, collaborative) — dipakai legacy/, tidak lagi oleh agent/tools/tools_catalog.py
+│        └── neo4j_schema.py
 ├── test_connectivity.py
-├── test_agent.py
 └── .env
 ```

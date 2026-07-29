@@ -5,7 +5,7 @@
 1. [Gambaran Umum](#gambaran-umum)
 2. [Arsitektur Sistem](./arsitektur.md)
 3. [Data Pipeline](./data_pipeline.md)
-4. [Agent Workflow (Vector-Gated ReAct)](./agent_workflow.md)
+4. [Agent Workflow](./agent_workflow.md)
 5. [Graph Ontology](./graph_ontology.md)
 6. [Evaluasi & Metrik](./evaluasi.md)
 7. [Hasil Evaluasi](./hasil.md)

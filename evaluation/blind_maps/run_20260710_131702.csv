@@ -1,0 +1,1201 @@
+anon_id,arm,model,query_id,query_type,hop_count,source_file
+A0001,Act-only,llama3.1:8b,Q40,1-hop_setting,1,eval_results_act_only_llama31_20260706_015432.json
+A0002,Vector-Gated v2,llama3.1:8b,Q42,1-hop_setting,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0003,Act-only,llama3.1:8b,Q92,collaborative_shared_ddc,3,eval_results_act_only_llama31_20260706_015432.json
+A0004,Act-only,llama3.1:8b,Q27,runtime_similarity,1,eval_results_act_only_llama31_20260706_015432.json
+A0005,Pure ReAct,qwen2.5:7b,Q92,collaborative_shared_ddc,3,eval_results_pure_react_qwen25_20260706_050120.json
+A0006,Standard RAG,llama3.1:8b,Q82,2-hop_collectiontype_category,2,eval_results_standard_20260706_081128.json
+A0007,Vector-Gated v2,qwen2.5:7b,Q51,1-hop_language,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0008,Act-only,llama3.1:8b,Q81,2-hop_ddc_branch,2,eval_results_act_only_llama31_20260706_015432.json
+A0009,Act-only,llama3.1:8b,Q24,collaborative_shared_ddc,3,eval_results_act_only_llama31_20260706_015432.json
+A0010,CoT-RAG,qwen2.5:7b,Q05,1-hop_ddc,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0011,Planned,llama3.1:8b,Q69,2-hop_setting_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0012,Act-only,llama3.1:8b,Q46,1-hop_category,1,eval_results_act_only_llama31_20260706_015432.json
+A0013,Standard RAG,llama3.1:8b,Q67,2-hop_setting_category,2,eval_results_standard_20260706_081128.json
+A0014,Planned,llama3.1:8b,Q43,1-hop_category,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0015,Pure ReAct,qwen2.5:7b,Q24,collaborative_shared_ddc,3,eval_results_pure_react_qwen25_20260706_050120.json
+A0016,Vector-Gated v2,llama3.1:8b,Q21,3-hop_vibe_setting_category,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0017,Act-only,llama3.1:8b,Q03,1-hop_setting,1,eval_results_act_only_llama31_20260706_015432.json
+A0018,Standard RAG,qwen2.5:7b,Q49,1-hop_ddc,1,eval_results_standard_20260706_112205.json
+A0019,Pure ReAct,qwen2.5:7b,Q37,1-hop_vibe,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0020,Standard RAG,qwen2.5:7b,Q58,1-hop_publisher_city,1,eval_results_standard_20260706_112205.json
+A0021,Planned,llama3.1:8b,Q15,2-hop_author_setting,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0022,Standard RAG,llama3.1:8b,Q12,2-hop_vibe_category,2,eval_results_standard_20260706_081128.json
+A0023,Pure ReAct,qwen2.5:7b,Q40,1-hop_setting,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0024,CoT-RAG,qwen2.5:7b,Q38,1-hop_vibe,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0025,CoT-RAG,qwen2.5:7b,Q86,3-hop_vibe_setting_category,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A0026,Planned,qwen2.5:7b,Q87,3-hop_vibe_setting_category,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0027,Pure ReAct,llama3.1:8b,Q71,2-hop_author_vibe,2,eval_results_pure_react_llama31_20260706_015432.json
+A0028,Vector-Gated v2,qwen2.5:7b,Q21,3-hop_vibe_setting_category,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0029,Planned,llama3.1:8b,Q55,1-hop_character,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0030,Standard RAG,llama3.1:8b,Q68,2-hop_setting_category,2,eval_results_standard_20260706_081128.json
+A0031,Vector-Gated v2,qwen2.5:7b,Q16,2-hop_author_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0032,Standard RAG,llama3.1:8b,Q33,1-hop_author,1,eval_results_standard_20260706_081128.json
+A0033,Act-only,llama3.1:8b,Q43,1-hop_category,1,eval_results_act_only_llama31_20260706_015432.json
+A0034,Pure ReAct,llama3.1:8b,Q94,collaborative_shared_ddc,3,eval_results_pure_react_llama31_20260706_015432.json
+A0035,Standard RAG,qwen2.5:7b,Q08,1-hop_publisher_city,1,eval_results_standard_20260706_112205.json
+A0036,Vector-Gated v2,llama3.1:8b,Q73,2-hop_author_setting,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0037,Planned,llama3.1:8b,Q59,2-hop_vibe_setting,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0038,Act-only,llama3.1:8b,Q95,runtime_similarity,1,eval_results_act_only_llama31_20260706_015432.json
+A0039,CoT-RAG,llama3.1:8b,Q40,1-hop_setting,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0040,Vector-Gated v2,llama3.1:8b,Q13,2-hop_setting_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0041,Planned,qwen2.5:7b,Q13,2-hop_setting_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0042,Pure ReAct,llama3.1:8b,Q33,1-hop_author,1,eval_results_pure_react_llama31_20260706_015432.json
+A0043,Planned,qwen2.5:7b,Q65,2-hop_vibe_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0044,Planned,llama3.1:8b,Q09,2-hop_vibe_setting,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0045,CoT-RAG,qwen2.5:7b,Q77,2-hop_author_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0046,Vector-Gated v2,qwen2.5:7b,Q02,1-hop_vibe,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0047,Vector-Gated v2,llama3.1:8b,Q38,1-hop_vibe,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0048,Vector-Gated v2,qwen2.5:7b,Q36,1-hop_vibe,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0049,Act-only,llama3.1:8b,Q44,1-hop_category,1,eval_results_act_only_llama31_20260706_015432.json
+A0050,Vector-Gated v2,llama3.1:8b,Q44,1-hop_category,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0051,Planned,llama3.1:8b,Q45,1-hop_category,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0052,Pure ReAct,llama3.1:8b,Q42,1-hop_setting,1,eval_results_pure_react_llama31_20260706_015432.json
+A0053,Pure ReAct,llama3.1:8b,Q73,2-hop_author_setting,2,eval_results_pure_react_llama31_20260706_015432.json
+A0054,CoT-RAG,llama3.1:8b,Q62,2-hop_vibe_setting,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0055,Act-only,llama3.1:8b,Q59,2-hop_vibe_setting,2,eval_results_act_only_llama31_20260706_015432.json
+A0056,CoT-RAG,llama3.1:8b,Q01,1-hop_author,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0057,Pure ReAct,qwen2.5:7b,Q16,2-hop_author_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0058,Standard RAG,qwen2.5:7b,Q22,collaborative_shared_vibe,3,eval_results_standard_20260706_112205.json
+A0059,Standard RAG,llama3.1:8b,Q73,2-hop_author_setting,2,eval_results_standard_20260706_081128.json
+A0060,Pure ReAct,qwen2.5:7b,Q99,branch_filter_vibe,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0061,Pure ReAct,llama3.1:8b,Q54,1-hop_character,1,eval_results_pure_react_llama31_20260706_015432.json
+A0062,Pure ReAct,qwen2.5:7b,Q84,2-hop_collectiontype_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0063,Planned,llama3.1:8b,Q50,1-hop_ddc,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0064,Act-only,qwen2.5:7b,Q55,1-hop_character,1,eval_results_act_only_qwen25_20260706_050120.json
+A0065,Vector-Gated v2,qwen2.5:7b,Q90,collaborative_shared_vibe,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0066,Standard RAG,llama3.1:8b,Q88,3-hop_vibe_setting_category,3,eval_results_standard_20260706_081128.json
+A0067,Planned,llama3.1:8b,Q60,2-hop_vibe_setting,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0068,Standard RAG,llama3.1:8b,Q57,1-hop_publisher_city,1,eval_results_standard_20260706_081128.json
+A0069,Standard RAG,llama3.1:8b,Q13,2-hop_setting_category,2,eval_results_standard_20260706_081128.json
+A0070,CoT-RAG,qwen2.5:7b,Q33,1-hop_author,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0071,Vector-Gated v2,qwen2.5:7b,Q28,branch_filter_vibe,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0072,Pure ReAct,qwen2.5:7b,Q58,1-hop_publisher_city,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0073,Standard RAG,llama3.1:8b,Q05,1-hop_ddc,1,eval_results_standard_20260706_081128.json
+A0074,Act-only,qwen2.5:7b,Q72,2-hop_author_vibe,2,eval_results_act_only_qwen25_20260706_050120.json
+A0075,Planned,llama3.1:8b,Q03,1-hop_setting,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0076,CoT-RAG,llama3.1:8b,Q13,2-hop_setting_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0077,CoT-RAG,llama3.1:8b,Q77,2-hop_author_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0078,Vector-Gated v2,qwen2.5:7b,Q97,runtime_similarity,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0079,Planned,qwen2.5:7b,Q35,1-hop_vibe,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0080,Planned,llama3.1:8b,Q32,1-hop_author,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0081,Act-only,llama3.1:8b,Q84,2-hop_collectiontype_category,2,eval_results_act_only_llama31_20260706_015432.json
+A0082,Standard RAG,qwen2.5:7b,Q68,2-hop_setting_category,2,eval_results_standard_20260706_112205.json
+A0083,Act-only,qwen2.5:7b,Q87,3-hop_vibe_setting_category,3,eval_results_act_only_qwen25_20260706_050120.json
+A0084,Act-only,qwen2.5:7b,Q89,collaborative_shared_vibe,3,eval_results_act_only_qwen25_20260706_050120.json
+A0085,Pure ReAct,llama3.1:8b,Q18,2-hop_collectiontype_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A0086,CoT-RAG,llama3.1:8b,Q78,2-hop_author_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0087,Planned,qwen2.5:7b,Q07,1-hop_character,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0088,Vector-Gated v2,llama3.1:8b,Q45,1-hop_category,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0089,Pure ReAct,qwen2.5:7b,Q52,1-hop_language,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0090,Vector-Gated v2,llama3.1:8b,Q53,1-hop_character,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0091,CoT-RAG,qwen2.5:7b,Q72,2-hop_author_vibe,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0092,Act-only,llama3.1:8b,Q64,2-hop_vibe_category,2,eval_results_act_only_llama31_20260706_015432.json
+A0093,Vector-Gated v2,llama3.1:8b,Q35,1-hop_vibe,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0094,Pure ReAct,llama3.1:8b,Q05,1-hop_ddc,1,eval_results_pure_react_llama31_20260706_015432.json
+A0095,CoT-RAG,llama3.1:8b,Q99,branch_filter_vibe,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0096,Standard RAG,qwen2.5:7b,Q40,1-hop_setting,1,eval_results_standard_20260706_112205.json
+A0097,Pure ReAct,qwen2.5:7b,Q30,branch_filter_vibe,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0098,Vector-Gated v2,qwen2.5:7b,Q03,1-hop_setting,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0099,Pure ReAct,qwen2.5:7b,Q27,runtime_similarity,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0100,Planned,llama3.1:8b,Q79,2-hop_ddc_branch,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0101,Vector-Gated v2,llama3.1:8b,Q59,2-hop_vibe_setting,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0102,Act-only,llama3.1:8b,Q28,branch_filter_vibe,2,eval_results_act_only_llama31_20260706_015432.json
+A0103,CoT-RAG,qwen2.5:7b,Q50,1-hop_ddc,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0104,Act-only,llama3.1:8b,Q05,1-hop_ddc,1,eval_results_act_only_llama31_20260706_015432.json
+A0105,Vector-Gated v2,qwen2.5:7b,Q42,1-hop_setting,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0106,Standard RAG,llama3.1:8b,Q35,1-hop_vibe,1,eval_results_standard_20260706_081128.json
+A0107,Pure ReAct,llama3.1:8b,Q55,1-hop_character,1,eval_results_pure_react_llama31_20260706_015432.json
+A0108,Vector-Gated v2,qwen2.5:7b,Q62,2-hop_vibe_setting,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0109,Act-only,qwen2.5:7b,Q48,1-hop_ddc,1,eval_results_act_only_qwen25_20260706_050120.json
+A0110,Act-only,qwen2.5:7b,Q23,collaborative_shared_vibe,3,eval_results_act_only_qwen25_20260706_050120.json
+A0111,Pure ReAct,llama3.1:8b,Q38,1-hop_vibe,1,eval_results_pure_react_llama31_20260706_015432.json
+A0112,Planned,qwen2.5:7b,Q63,2-hop_vibe_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0113,Pure ReAct,llama3.1:8b,Q63,2-hop_vibe_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A0114,Pure ReAct,llama3.1:8b,Q59,2-hop_vibe_setting,2,eval_results_pure_react_llama31_20260706_015432.json
+A0115,Vector-Gated v2,llama3.1:8b,Q09,2-hop_vibe_setting,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0116,CoT-RAG,llama3.1:8b,Q100,branch_filter_author,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0117,Standard RAG,llama3.1:8b,Q18,2-hop_collectiontype_category,2,eval_results_standard_20260706_081128.json
+A0118,Act-only,qwen2.5:7b,Q35,1-hop_vibe,1,eval_results_act_only_qwen25_20260706_050120.json
+A0119,Pure ReAct,llama3.1:8b,Q48,1-hop_ddc,1,eval_results_pure_react_llama31_20260706_015432.json
+A0120,Vector-Gated v2,llama3.1:8b,Q97,runtime_similarity,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0121,CoT-RAG,llama3.1:8b,Q57,1-hop_publisher_city,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0122,Standard RAG,qwen2.5:7b,Q18,2-hop_collectiontype_category,2,eval_results_standard_20260706_112205.json
+A0123,Pure ReAct,qwen2.5:7b,Q39,1-hop_setting,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0124,Standard RAG,llama3.1:8b,Q50,1-hop_ddc,1,eval_results_standard_20260706_081128.json
+A0125,Vector-Gated v2,llama3.1:8b,Q92,collaborative_shared_ddc,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0126,Pure ReAct,qwen2.5:7b,Q74,2-hop_author_setting,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0127,CoT-RAG,llama3.1:8b,Q87,3-hop_vibe_setting_category,3,eval_results_cot_rag_llama31_20260706_015432.json
+A0128,Vector-Gated v2,qwen2.5:7b,Q17,2-hop_ddc_branch,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0129,Planned,qwen2.5:7b,Q45,1-hop_category,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0130,Act-only,llama3.1:8b,Q96,runtime_similarity,1,eval_results_act_only_llama31_20260706_015432.json
+A0131,CoT-RAG,llama3.1:8b,Q83,2-hop_collectiontype_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0132,Planned,llama3.1:8b,Q86,3-hop_vibe_setting_category,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0133,Planned,llama3.1:8b,Q85,3-hop_vibe_setting_category,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0134,Vector-Gated v2,llama3.1:8b,Q62,2-hop_vibe_setting,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0135,Standard RAG,qwen2.5:7b,Q61,2-hop_vibe_setting,2,eval_results_standard_20260706_112205.json
+A0136,Pure ReAct,qwen2.5:7b,Q18,2-hop_collectiontype_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0137,CoT-RAG,qwen2.5:7b,Q84,2-hop_collectiontype_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0138,Act-only,llama3.1:8b,Q02,1-hop_vibe,1,eval_results_act_only_llama31_20260706_015432.json
+A0139,CoT-RAG,qwen2.5:7b,Q15,2-hop_author_setting,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0140,Standard RAG,llama3.1:8b,Q58,1-hop_publisher_city,1,eval_results_standard_20260706_081128.json
+A0141,Vector-Gated v2,llama3.1:8b,Q02,1-hop_vibe,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0142,CoT-RAG,llama3.1:8b,Q47,1-hop_ddc,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0143,Planned,qwen2.5:7b,Q54,1-hop_character,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0144,Vector-Gated v2,llama3.1:8b,Q06,1-hop_language,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0145,Vector-Gated v2,qwen2.5:7b,Q27,runtime_similarity,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0146,Planned,llama3.1:8b,Q81,2-hop_ddc_branch,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0147,Pure ReAct,qwen2.5:7b,Q77,2-hop_author_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0148,CoT-RAG,qwen2.5:7b,Q49,1-hop_ddc,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0149,CoT-RAG,qwen2.5:7b,Q80,2-hop_ddc_branch,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0150,Vector-Gated v2,llama3.1:8b,Q16,2-hop_author_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0151,CoT-RAG,qwen2.5:7b,Q70,2-hop_author_vibe,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0152,Pure ReAct,qwen2.5:7b,Q95,runtime_similarity,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0153,Pure ReAct,llama3.1:8b,Q06,1-hop_language,1,eval_results_pure_react_llama31_20260706_015432.json
+A0154,Act-only,qwen2.5:7b,Q25,runtime_similarity,1,eval_results_act_only_qwen25_20260706_050120.json
+A0155,Planned,llama3.1:8b,Q64,2-hop_vibe_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0156,Act-only,qwen2.5:7b,Q61,2-hop_vibe_setting,2,eval_results_act_only_qwen25_20260706_050120.json
+A0157,CoT-RAG,qwen2.5:7b,Q21,3-hop_vibe_setting_category,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A0158,Standard RAG,qwen2.5:7b,Q65,2-hop_vibe_category,2,eval_results_standard_20260706_112205.json
+A0159,Pure ReAct,llama3.1:8b,Q98,branch_filter_vibe,2,eval_results_pure_react_llama31_20260706_015432.json
+A0160,Act-only,llama3.1:8b,Q88,3-hop_vibe_setting_category,3,eval_results_act_only_llama31_20260706_015432.json
+A0161,Pure ReAct,llama3.1:8b,Q56,1-hop_publisher_city,1,eval_results_pure_react_llama31_20260706_015432.json
+A0162,Standard RAG,llama3.1:8b,Q93,collaborative_shared_ddc,3,eval_results_standard_20260706_081128.json
+A0163,Act-only,llama3.1:8b,Q80,2-hop_ddc_branch,2,eval_results_act_only_llama31_20260706_015432.json
+A0164,Standard RAG,llama3.1:8b,Q49,1-hop_ddc,1,eval_results_standard_20260706_081128.json
+A0165,Pure ReAct,llama3.1:8b,Q03,1-hop_setting,1,eval_results_pure_react_llama31_20260706_015432.json
+A0166,Pure ReAct,llama3.1:8b,Q52,1-hop_language,1,eval_results_pure_react_llama31_20260706_015432.json
+A0167,Vector-Gated v2,qwen2.5:7b,Q45,1-hop_category,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0168,CoT-RAG,qwen2.5:7b,Q91,collaborative_shared_vibe,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A0169,Pure ReAct,llama3.1:8b,Q69,2-hop_setting_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A0170,Act-only,qwen2.5:7b,Q03,1-hop_setting,1,eval_results_act_only_qwen25_20260706_050120.json
+A0171,CoT-RAG,qwen2.5:7b,Q81,2-hop_ddc_branch,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0172,Planned,llama3.1:8b,Q17,2-hop_ddc_branch,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0173,Vector-Gated v2,llama3.1:8b,Q90,collaborative_shared_vibe,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0174,Pure ReAct,qwen2.5:7b,Q67,2-hop_setting_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0175,Vector-Gated v2,qwen2.5:7b,Q85,3-hop_vibe_setting_category,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0176,Standard RAG,llama3.1:8b,Q23,collaborative_shared_vibe,3,eval_results_standard_20260706_081128.json
+A0177,Act-only,qwen2.5:7b,Q32,1-hop_author,1,eval_results_act_only_qwen25_20260706_050120.json
+A0178,Pure ReAct,qwen2.5:7b,Q93,collaborative_shared_ddc,3,eval_results_pure_react_qwen25_20260706_050120.json
+A0179,Act-only,qwen2.5:7b,Q88,3-hop_vibe_setting_category,3,eval_results_act_only_qwen25_20260706_050120.json
+A0180,Planned,qwen2.5:7b,Q80,2-hop_ddc_branch,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0181,Act-only,qwen2.5:7b,Q04,1-hop_category,1,eval_results_act_only_qwen25_20260706_050120.json
+A0182,Pure ReAct,qwen2.5:7b,Q86,3-hop_vibe_setting_category,3,eval_results_pure_react_qwen25_20260706_050120.json
+A0183,CoT-RAG,llama3.1:8b,Q32,1-hop_author,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0184,Planned,qwen2.5:7b,Q96,runtime_similarity,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0185,Pure ReAct,qwen2.5:7b,Q71,2-hop_author_vibe,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0186,Standard RAG,llama3.1:8b,Q85,3-hop_vibe_setting_category,3,eval_results_standard_20260706_081128.json
+A0187,Pure ReAct,qwen2.5:7b,Q94,collaborative_shared_ddc,3,eval_results_pure_react_qwen25_20260706_050120.json
+A0188,Vector-Gated v2,qwen2.5:7b,Q60,2-hop_vibe_setting,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0189,Standard RAG,qwen2.5:7b,Q72,2-hop_author_vibe,2,eval_results_standard_20260706_112205.json
+A0190,Vector-Gated v2,llama3.1:8b,Q46,1-hop_category,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0191,Act-only,qwen2.5:7b,Q58,1-hop_publisher_city,1,eval_results_act_only_qwen25_20260706_050120.json
+A0192,Standard RAG,qwen2.5:7b,Q05,1-hop_ddc,1,eval_results_standard_20260706_112205.json
+A0193,Standard RAG,llama3.1:8b,Q90,collaborative_shared_vibe,3,eval_results_standard_20260706_081128.json
+A0194,Act-only,qwen2.5:7b,Q16,2-hop_author_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0195,CoT-RAG,llama3.1:8b,Q21,3-hop_vibe_setting_category,3,eval_results_cot_rag_llama31_20260706_015432.json
+A0196,Vector-Gated v2,llama3.1:8b,Q61,2-hop_vibe_setting,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0197,Pure ReAct,llama3.1:8b,Q04,1-hop_category,1,eval_results_pure_react_llama31_20260706_015432.json
+A0198,Planned,qwen2.5:7b,Q09,2-hop_vibe_setting,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0199,CoT-RAG,llama3.1:8b,Q70,2-hop_author_vibe,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0200,Standard RAG,llama3.1:8b,Q47,1-hop_ddc,1,eval_results_standard_20260706_081128.json
+A0201,Pure ReAct,llama3.1:8b,Q95,runtime_similarity,1,eval_results_pure_react_llama31_20260706_015432.json
+A0202,Planned,llama3.1:8b,Q89,collaborative_shared_vibe,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0203,Act-only,qwen2.5:7b,Q45,1-hop_category,1,eval_results_act_only_qwen25_20260706_050120.json
+A0204,Vector-Gated v2,qwen2.5:7b,Q48,1-hop_ddc,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0205,Planned,llama3.1:8b,Q29,branch_filter_author,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0206,Pure ReAct,qwen2.5:7b,Q68,2-hop_setting_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0207,Standard RAG,qwen2.5:7b,Q94,collaborative_shared_ddc,3,eval_results_standard_20260706_112205.json
+A0208,Planned,qwen2.5:7b,Q71,2-hop_author_vibe,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0209,Vector-Gated v2,qwen2.5:7b,Q86,3-hop_vibe_setting_category,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0210,Vector-Gated v2,llama3.1:8b,Q84,2-hop_collectiontype_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0211,Standard RAG,llama3.1:8b,Q69,2-hop_setting_category,2,eval_results_standard_20260706_081128.json
+A0212,CoT-RAG,llama3.1:8b,Q11,2-hop_vibe_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0213,Pure ReAct,llama3.1:8b,Q58,1-hop_publisher_city,1,eval_results_pure_react_llama31_20260706_015432.json
+A0214,Standard RAG,qwen2.5:7b,Q96,runtime_similarity,1,eval_results_standard_20260706_112205.json
+A0215,Vector-Gated v2,qwen2.5:7b,Q31,1-hop_author,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0216,Planned,qwen2.5:7b,Q29,branch_filter_author,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0217,Act-only,qwen2.5:7b,Q37,1-hop_vibe,1,eval_results_act_only_qwen25_20260706_050120.json
+A0218,CoT-RAG,llama3.1:8b,Q15,2-hop_author_setting,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0219,Act-only,llama3.1:8b,Q07,1-hop_character,1,eval_results_act_only_llama31_20260706_015432.json
+A0220,Planned,qwen2.5:7b,Q15,2-hop_author_setting,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0221,Planned,qwen2.5:7b,Q75,2-hop_author_setting,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0222,CoT-RAG,qwen2.5:7b,Q20,3-hop_vibe_setting_category,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A0223,CoT-RAG,qwen2.5:7b,Q23,collaborative_shared_vibe,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A0224,Planned,llama3.1:8b,Q65,2-hop_vibe_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0225,Act-only,qwen2.5:7b,Q86,3-hop_vibe_setting_category,3,eval_results_act_only_qwen25_20260706_050120.json
+A0226,Planned,llama3.1:8b,Q75,2-hop_author_setting,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0227,Vector-Gated v2,llama3.1:8b,Q58,1-hop_publisher_city,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0228,Standard RAG,llama3.1:8b,Q11,2-hop_vibe_category,2,eval_results_standard_20260706_081128.json
+A0229,Standard RAG,qwen2.5:7b,Q54,1-hop_character,1,eval_results_standard_20260706_112205.json
+A0230,Vector-Gated v2,qwen2.5:7b,Q10,2-hop_vibe_setting,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0231,CoT-RAG,llama3.1:8b,Q42,1-hop_setting,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0232,Standard RAG,qwen2.5:7b,Q27,runtime_similarity,1,eval_results_standard_20260706_112205.json
+A0233,CoT-RAG,qwen2.5:7b,Q56,1-hop_publisher_city,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0234,CoT-RAG,qwen2.5:7b,Q82,2-hop_collectiontype_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0235,Vector-Gated v2,llama3.1:8b,Q99,branch_filter_vibe,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0236,Standard RAG,qwen2.5:7b,Q04,1-hop_category,1,eval_results_standard_20260706_112205.json
+A0237,Standard RAG,qwen2.5:7b,Q80,2-hop_ddc_branch,2,eval_results_standard_20260706_112205.json
+A0238,Vector-Gated v2,llama3.1:8b,Q05,1-hop_ddc,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0239,CoT-RAG,qwen2.5:7b,Q62,2-hop_vibe_setting,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0240,Planned,llama3.1:8b,Q51,1-hop_language,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0241,Vector-Gated v2,llama3.1:8b,Q15,2-hop_author_setting,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0242,Standard RAG,qwen2.5:7b,Q13,2-hop_setting_category,2,eval_results_standard_20260706_112205.json
+A0243,Standard RAG,llama3.1:8b,Q74,2-hop_author_setting,2,eval_results_standard_20260706_081128.json
+A0244,Vector-Gated v2,llama3.1:8b,Q40,1-hop_setting,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0245,Pure ReAct,llama3.1:8b,Q46,1-hop_category,1,eval_results_pure_react_llama31_20260706_015432.json
+A0246,Vector-Gated v2,qwen2.5:7b,Q19,3-hop_vibe_setting_category,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0247,Planned,qwen2.5:7b,Q88,3-hop_vibe_setting_category,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0248,CoT-RAG,llama3.1:8b,Q88,3-hop_vibe_setting_category,3,eval_results_cot_rag_llama31_20260706_015432.json
+A0249,Pure ReAct,llama3.1:8b,Q07,1-hop_character,1,eval_results_pure_react_llama31_20260706_015432.json
+A0250,CoT-RAG,llama3.1:8b,Q03,1-hop_setting,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0251,Pure ReAct,qwen2.5:7b,Q80,2-hop_ddc_branch,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0252,Vector-Gated v2,qwen2.5:7b,Q57,1-hop_publisher_city,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0253,Standard RAG,llama3.1:8b,Q19,3-hop_vibe_setting_category,3,eval_results_standard_20260706_081128.json
+A0254,CoT-RAG,llama3.1:8b,Q64,2-hop_vibe_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0255,Pure ReAct,llama3.1:8b,Q19,3-hop_vibe_setting_category,3,eval_results_pure_react_llama31_20260706_015432.json
+A0256,Pure ReAct,llama3.1:8b,Q15,2-hop_author_setting,2,eval_results_pure_react_llama31_20260706_015432.json
+A0257,CoT-RAG,qwen2.5:7b,Q01,1-hop_author,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0258,Act-only,qwen2.5:7b,Q92,collaborative_shared_ddc,3,eval_results_act_only_qwen25_20260706_050120.json
+A0259,Pure ReAct,llama3.1:8b,Q72,2-hop_author_vibe,2,eval_results_pure_react_llama31_20260706_015432.json
+A0260,Vector-Gated v2,qwen2.5:7b,Q63,2-hop_vibe_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0261,Pure ReAct,qwen2.5:7b,Q69,2-hop_setting_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0262,CoT-RAG,llama3.1:8b,Q81,2-hop_ddc_branch,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0263,Standard RAG,qwen2.5:7b,Q20,3-hop_vibe_setting_category,3,eval_results_standard_20260706_112205.json
+A0264,Pure ReAct,qwen2.5:7b,Q87,3-hop_vibe_setting_category,3,eval_results_pure_react_qwen25_20260706_050120.json
+A0265,Vector-Gated v2,llama3.1:8b,Q63,2-hop_vibe_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0266,Act-only,llama3.1:8b,Q55,1-hop_character,1,eval_results_act_only_llama31_20260706_015432.json
+A0267,Standard RAG,qwen2.5:7b,Q48,1-hop_ddc,1,eval_results_standard_20260706_112205.json
+A0268,CoT-RAG,qwen2.5:7b,Q53,1-hop_character,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0269,Standard RAG,llama3.1:8b,Q17,2-hop_ddc_branch,2,eval_results_standard_20260706_081128.json
+A0270,Planned,llama3.1:8b,Q47,1-hop_ddc,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0271,Pure ReAct,qwen2.5:7b,Q56,1-hop_publisher_city,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0272,Planned,llama3.1:8b,Q82,2-hop_collectiontype_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0273,Vector-Gated v2,llama3.1:8b,Q79,2-hop_ddc_branch,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0274,Pure ReAct,qwen2.5:7b,Q02,1-hop_vibe,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0275,Pure ReAct,llama3.1:8b,Q34,1-hop_author,1,eval_results_pure_react_llama31_20260706_015432.json
+A0276,Vector-Gated v2,qwen2.5:7b,Q53,1-hop_character,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0277,Planned,qwen2.5:7b,Q61,2-hop_vibe_setting,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0278,Vector-Gated v2,llama3.1:8b,Q94,collaborative_shared_ddc,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0279,Standard RAG,llama3.1:8b,Q81,2-hop_ddc_branch,2,eval_results_standard_20260706_081128.json
+A0280,Vector-Gated v2,llama3.1:8b,Q56,1-hop_publisher_city,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0281,Vector-Gated v2,llama3.1:8b,Q54,1-hop_character,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0282,Vector-Gated v2,qwen2.5:7b,Q77,2-hop_author_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0283,Vector-Gated v2,llama3.1:8b,Q33,1-hop_author,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0284,Standard RAG,llama3.1:8b,Q51,1-hop_language,1,eval_results_standard_20260706_081128.json
+A0285,Standard RAG,llama3.1:8b,Q31,1-hop_author,1,eval_results_standard_20260706_081128.json
+A0286,CoT-RAG,qwen2.5:7b,Q71,2-hop_author_vibe,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0287,Act-only,llama3.1:8b,Q56,1-hop_publisher_city,1,eval_results_act_only_llama31_20260706_015432.json
+A0288,Planned,llama3.1:8b,Q92,collaborative_shared_ddc,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0289,CoT-RAG,llama3.1:8b,Q27,runtime_similarity,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0290,Pure ReAct,qwen2.5:7b,Q26,runtime_similarity,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0291,Act-only,llama3.1:8b,Q62,2-hop_vibe_setting,2,eval_results_act_only_llama31_20260706_015432.json
+A0292,Vector-Gated v2,qwen2.5:7b,Q75,2-hop_author_setting,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0293,Standard RAG,qwen2.5:7b,Q16,2-hop_author_category,2,eval_results_standard_20260706_112205.json
+A0294,CoT-RAG,llama3.1:8b,Q14,2-hop_author_vibe,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0295,Pure ReAct,qwen2.5:7b,Q32,1-hop_author,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0296,Vector-Gated v2,qwen2.5:7b,Q43,1-hop_category,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0297,Pure ReAct,llama3.1:8b,Q89,collaborative_shared_vibe,3,eval_results_pure_react_llama31_20260706_015432.json
+A0298,Act-only,qwen2.5:7b,Q30,branch_filter_vibe,2,eval_results_act_only_qwen25_20260706_050120.json
+A0299,Standard RAG,qwen2.5:7b,Q56,1-hop_publisher_city,1,eval_results_standard_20260706_112205.json
+A0300,Planned,llama3.1:8b,Q38,1-hop_vibe,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0301,Standard RAG,llama3.1:8b,Q77,2-hop_author_category,2,eval_results_standard_20260706_081128.json
+A0302,Pure ReAct,qwen2.5:7b,Q91,collaborative_shared_vibe,3,eval_results_pure_react_qwen25_20260706_050120.json
+A0303,Planned,qwen2.5:7b,Q26,runtime_similarity,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0304,CoT-RAG,llama3.1:8b,Q96,runtime_similarity,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0305,Standard RAG,llama3.1:8b,Q38,1-hop_vibe,1,eval_results_standard_20260706_081128.json
+A0306,Planned,llama3.1:8b,Q77,2-hop_author_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0307,CoT-RAG,llama3.1:8b,Q06,1-hop_language,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0308,Standard RAG,llama3.1:8b,Q34,1-hop_author,1,eval_results_standard_20260706_081128.json
+A0309,Pure ReAct,qwen2.5:7b,Q85,3-hop_vibe_setting_category,3,eval_results_pure_react_qwen25_20260706_050120.json
+A0310,Act-only,qwen2.5:7b,Q13,2-hop_setting_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0311,Act-only,qwen2.5:7b,Q12,2-hop_vibe_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0312,Standard RAG,llama3.1:8b,Q27,runtime_similarity,1,eval_results_standard_20260706_081128.json
+A0313,Act-only,llama3.1:8b,Q83,2-hop_collectiontype_category,2,eval_results_act_only_llama31_20260706_015432.json
+A0314,CoT-RAG,qwen2.5:7b,Q98,branch_filter_vibe,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0315,Pure ReAct,qwen2.5:7b,Q88,3-hop_vibe_setting_category,3,eval_results_pure_react_qwen25_20260706_050120.json
+A0316,CoT-RAG,llama3.1:8b,Q46,1-hop_category,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0317,Pure ReAct,qwen2.5:7b,Q07,1-hop_character,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0318,Planned,llama3.1:8b,Q24,collaborative_shared_ddc,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0319,Pure ReAct,llama3.1:8b,Q67,2-hop_setting_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A0320,Vector-Gated v2,llama3.1:8b,Q47,1-hop_ddc,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0321,Act-only,llama3.1:8b,Q71,2-hop_author_vibe,2,eval_results_act_only_llama31_20260706_015432.json
+A0322,CoT-RAG,qwen2.5:7b,Q78,2-hop_author_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0323,CoT-RAG,qwen2.5:7b,Q29,branch_filter_author,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0324,Standard RAG,qwen2.5:7b,Q50,1-hop_ddc,1,eval_results_standard_20260706_112205.json
+A0325,CoT-RAG,qwen2.5:7b,Q64,2-hop_vibe_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0326,Pure ReAct,llama3.1:8b,Q13,2-hop_setting_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A0327,Planned,llama3.1:8b,Q87,3-hop_vibe_setting_category,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0328,Standard RAG,qwen2.5:7b,Q41,1-hop_setting,1,eval_results_standard_20260706_112205.json
+A0329,Planned,llama3.1:8b,Q76,2-hop_author_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0330,Planned,qwen2.5:7b,Q39,1-hop_setting,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0331,Standard RAG,llama3.1:8b,Q08,1-hop_publisher_city,1,eval_results_standard_20260706_081128.json
+A0332,Pure ReAct,llama3.1:8b,Q16,2-hop_author_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A0333,Standard RAG,llama3.1:8b,Q92,collaborative_shared_ddc,3,eval_results_standard_20260706_081128.json
+A0334,Standard RAG,qwen2.5:7b,Q85,3-hop_vibe_setting_category,3,eval_results_standard_20260706_112205.json
+A0335,Standard RAG,qwen2.5:7b,Q17,2-hop_ddc_branch,2,eval_results_standard_20260706_112205.json
+A0336,Pure ReAct,llama3.1:8b,Q28,branch_filter_vibe,2,eval_results_pure_react_llama31_20260706_015432.json
+A0337,Planned,llama3.1:8b,Q02,1-hop_vibe,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0338,Act-only,qwen2.5:7b,Q38,1-hop_vibe,1,eval_results_act_only_qwen25_20260706_050120.json
+A0339,Standard RAG,qwen2.5:7b,Q45,1-hop_category,1,eval_results_standard_20260706_112205.json
+A0340,Vector-Gated v2,llama3.1:8b,Q68,2-hop_setting_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0341,Vector-Gated v2,llama3.1:8b,Q01,1-hop_author,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0342,CoT-RAG,qwen2.5:7b,Q02,1-hop_vibe,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0343,Pure ReAct,llama3.1:8b,Q32,1-hop_author,1,eval_results_pure_react_llama31_20260706_015432.json
+A0344,Vector-Gated v2,qwen2.5:7b,Q72,2-hop_author_vibe,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0345,Pure ReAct,qwen2.5:7b,Q50,1-hop_ddc,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0346,Pure ReAct,qwen2.5:7b,Q01,1-hop_author,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0347,Planned,qwen2.5:7b,Q14,2-hop_author_vibe,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0348,CoT-RAG,llama3.1:8b,Q75,2-hop_author_setting,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0349,Vector-Gated v2,qwen2.5:7b,Q84,2-hop_collectiontype_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0350,Vector-Gated v2,llama3.1:8b,Q48,1-hop_ddc,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0351,Standard RAG,llama3.1:8b,Q99,branch_filter_vibe,2,eval_results_standard_20260706_081128.json
+A0352,Act-only,llama3.1:8b,Q63,2-hop_vibe_category,2,eval_results_act_only_llama31_20260706_015432.json
+A0353,Pure ReAct,qwen2.5:7b,Q09,2-hop_vibe_setting,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0354,Standard RAG,qwen2.5:7b,Q29,branch_filter_author,2,eval_results_standard_20260706_112205.json
+A0355,CoT-RAG,qwen2.5:7b,Q87,3-hop_vibe_setting_category,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A0356,Planned,qwen2.5:7b,Q42,1-hop_setting,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0357,CoT-RAG,llama3.1:8b,Q33,1-hop_author,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0358,Pure ReAct,llama3.1:8b,Q23,collaborative_shared_vibe,3,eval_results_pure_react_llama31_20260706_015432.json
+A0359,Planned,qwen2.5:7b,Q20,3-hop_vibe_setting_category,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0360,Pure ReAct,qwen2.5:7b,Q20,3-hop_vibe_setting_category,3,eval_results_pure_react_qwen25_20260706_050120.json
+A0361,Planned,llama3.1:8b,Q73,2-hop_author_setting,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0362,Standard RAG,qwen2.5:7b,Q77,2-hop_author_category,2,eval_results_standard_20260706_112205.json
+A0363,Pure ReAct,qwen2.5:7b,Q51,1-hop_language,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0364,Vector-Gated v2,qwen2.5:7b,Q12,2-hop_vibe_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0365,Act-only,qwen2.5:7b,Q11,2-hop_vibe_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0366,Vector-Gated v2,llama3.1:8b,Q14,2-hop_author_vibe,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0367,CoT-RAG,llama3.1:8b,Q98,branch_filter_vibe,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0368,Pure ReAct,qwen2.5:7b,Q25,runtime_similarity,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0369,Act-only,qwen2.5:7b,Q14,2-hop_author_vibe,2,eval_results_act_only_qwen25_20260706_050120.json
+A0370,Act-only,llama3.1:8b,Q29,branch_filter_author,2,eval_results_act_only_llama31_20260706_015432.json
+A0371,CoT-RAG,qwen2.5:7b,Q55,1-hop_character,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0372,CoT-RAG,llama3.1:8b,Q08,1-hop_publisher_city,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0373,Standard RAG,qwen2.5:7b,Q14,2-hop_author_vibe,2,eval_results_standard_20260706_112205.json
+A0374,Pure ReAct,llama3.1:8b,Q43,1-hop_category,1,eval_results_pure_react_llama31_20260706_015432.json
+A0375,Pure ReAct,llama3.1:8b,Q41,1-hop_setting,1,eval_results_pure_react_llama31_20260706_015432.json
+A0376,Vector-Gated v2,llama3.1:8b,Q39,1-hop_setting,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0377,Vector-Gated v2,qwen2.5:7b,Q05,1-hop_ddc,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0378,CoT-RAG,llama3.1:8b,Q52,1-hop_language,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0379,CoT-RAG,qwen2.5:7b,Q65,2-hop_vibe_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0380,Planned,llama3.1:8b,Q67,2-hop_setting_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0381,Planned,llama3.1:8b,Q22,collaborative_shared_vibe,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0382,Act-only,llama3.1:8b,Q75,2-hop_author_setting,2,eval_results_act_only_llama31_20260706_015432.json
+A0383,CoT-RAG,qwen2.5:7b,Q88,3-hop_vibe_setting_category,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A0384,Planned,qwen2.5:7b,Q32,1-hop_author,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0385,Pure ReAct,qwen2.5:7b,Q15,2-hop_author_setting,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0386,Vector-Gated v2,llama3.1:8b,Q19,3-hop_vibe_setting_category,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0387,CoT-RAG,qwen2.5:7b,Q69,2-hop_setting_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0388,Standard RAG,qwen2.5:7b,Q24,collaborative_shared_ddc,3,eval_results_standard_20260706_112205.json
+A0389,Planned,llama3.1:8b,Q34,1-hop_author,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0390,Standard RAG,llama3.1:8b,Q98,branch_filter_vibe,2,eval_results_standard_20260706_081128.json
+A0391,CoT-RAG,llama3.1:8b,Q65,2-hop_vibe_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0392,Vector-Gated v2,llama3.1:8b,Q43,1-hop_category,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0393,Act-only,qwen2.5:7b,Q29,branch_filter_author,2,eval_results_act_only_qwen25_20260706_050120.json
+A0394,Planned,llama3.1:8b,Q12,2-hop_vibe_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0395,Pure ReAct,qwen2.5:7b,Q31,1-hop_author,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0396,Act-only,qwen2.5:7b,Q63,2-hop_vibe_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0397,Vector-Gated v2,qwen2.5:7b,Q76,2-hop_author_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0398,Planned,qwen2.5:7b,Q03,1-hop_setting,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0399,Standard RAG,qwen2.5:7b,Q33,1-hop_author,1,eval_results_standard_20260706_112205.json
+A0400,Pure ReAct,qwen2.5:7b,Q63,2-hop_vibe_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0401,Standard RAG,qwen2.5:7b,Q09,2-hop_vibe_setting,2,eval_results_standard_20260706_112205.json
+A0402,Pure ReAct,llama3.1:8b,Q29,branch_filter_author,2,eval_results_pure_react_llama31_20260706_015432.json
+A0403,Planned,qwen2.5:7b,Q83,2-hop_collectiontype_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0404,Pure ReAct,qwen2.5:7b,Q64,2-hop_vibe_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0405,Pure ReAct,llama3.1:8b,Q08,1-hop_publisher_city,1,eval_results_pure_react_llama31_20260706_015432.json
+A0406,Planned,llama3.1:8b,Q31,1-hop_author,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0407,Standard RAG,qwen2.5:7b,Q73,2-hop_author_setting,2,eval_results_standard_20260706_112205.json
+A0408,Pure ReAct,qwen2.5:7b,Q06,1-hop_language,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0409,Act-only,qwen2.5:7b,Q10,2-hop_vibe_setting,2,eval_results_act_only_qwen25_20260706_050120.json
+A0410,Planned,qwen2.5:7b,Q08,1-hop_publisher_city,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0411,Vector-Gated v2,llama3.1:8b,Q49,1-hop_ddc,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0412,CoT-RAG,llama3.1:8b,Q38,1-hop_vibe,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0413,CoT-RAG,qwen2.5:7b,Q85,3-hop_vibe_setting_category,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A0414,Planned,llama3.1:8b,Q61,2-hop_vibe_setting,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0415,Planned,qwen2.5:7b,Q81,2-hop_ddc_branch,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0416,Planned,qwen2.5:7b,Q51,1-hop_language,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0417,Standard RAG,llama3.1:8b,Q45,1-hop_category,1,eval_results_standard_20260706_081128.json
+A0418,Standard RAG,qwen2.5:7b,Q26,runtime_similarity,1,eval_results_standard_20260706_112205.json
+A0419,Pure ReAct,qwen2.5:7b,Q100,branch_filter_author,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0420,Vector-Gated v2,llama3.1:8b,Q32,1-hop_author,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0421,Vector-Gated v2,qwen2.5:7b,Q95,runtime_similarity,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0422,CoT-RAG,qwen2.5:7b,Q75,2-hop_author_setting,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0423,Pure ReAct,qwen2.5:7b,Q62,2-hop_vibe_setting,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0424,CoT-RAG,llama3.1:8b,Q24,collaborative_shared_ddc,3,eval_results_cot_rag_llama31_20260706_015432.json
+A0425,Act-only,qwen2.5:7b,Q05,1-hop_ddc,1,eval_results_act_only_qwen25_20260706_050120.json
+A0426,Planned,llama3.1:8b,Q39,1-hop_setting,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0427,CoT-RAG,qwen2.5:7b,Q97,runtime_similarity,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0428,CoT-RAG,llama3.1:8b,Q76,2-hop_author_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0429,Vector-Gated v2,llama3.1:8b,Q95,runtime_similarity,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0430,Planned,qwen2.5:7b,Q44,1-hop_category,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0431,Act-only,qwen2.5:7b,Q41,1-hop_setting,1,eval_results_act_only_qwen25_20260706_050120.json
+A0432,Planned,qwen2.5:7b,Q40,1-hop_setting,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0433,Pure ReAct,qwen2.5:7b,Q22,collaborative_shared_vibe,3,eval_results_pure_react_qwen25_20260706_050120.json
+A0434,CoT-RAG,qwen2.5:7b,Q76,2-hop_author_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0435,Standard RAG,llama3.1:8b,Q91,collaborative_shared_vibe,3,eval_results_standard_20260706_081128.json
+A0436,Vector-Gated v2,qwen2.5:7b,Q22,collaborative_shared_vibe,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0437,Standard RAG,llama3.1:8b,Q79,2-hop_ddc_branch,2,eval_results_standard_20260706_081128.json
+A0438,Planned,qwen2.5:7b,Q74,2-hop_author_setting,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0439,CoT-RAG,llama3.1:8b,Q36,1-hop_vibe,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0440,Act-only,qwen2.5:7b,Q78,2-hop_author_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0441,CoT-RAG,qwen2.5:7b,Q26,runtime_similarity,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0442,Standard RAG,qwen2.5:7b,Q86,3-hop_vibe_setting_category,3,eval_results_standard_20260706_112205.json
+A0443,CoT-RAG,llama3.1:8b,Q22,collaborative_shared_vibe,3,eval_results_cot_rag_llama31_20260706_015432.json
+A0444,Planned,qwen2.5:7b,Q84,2-hop_collectiontype_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0445,Pure ReAct,llama3.1:8b,Q40,1-hop_setting,1,eval_results_pure_react_llama31_20260706_015432.json
+A0446,Pure ReAct,qwen2.5:7b,Q57,1-hop_publisher_city,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0447,Pure ReAct,llama3.1:8b,Q66,2-hop_vibe_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A0448,Act-only,llama3.1:8b,Q35,1-hop_vibe,1,eval_results_act_only_llama31_20260706_015432.json
+A0449,Pure ReAct,qwen2.5:7b,Q97,runtime_similarity,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0450,Standard RAG,qwen2.5:7b,Q75,2-hop_author_setting,2,eval_results_standard_20260706_112205.json
+A0451,CoT-RAG,qwen2.5:7b,Q32,1-hop_author,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0452,CoT-RAG,llama3.1:8b,Q60,2-hop_vibe_setting,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0453,Standard RAG,llama3.1:8b,Q36,1-hop_vibe,1,eval_results_standard_20260706_081128.json
+A0454,Planned,qwen2.5:7b,Q67,2-hop_setting_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0455,Act-only,qwen2.5:7b,Q76,2-hop_author_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0456,Act-only,qwen2.5:7b,Q80,2-hop_ddc_branch,2,eval_results_act_only_qwen25_20260706_050120.json
+A0457,CoT-RAG,llama3.1:8b,Q73,2-hop_author_setting,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0458,Standard RAG,qwen2.5:7b,Q78,2-hop_author_category,2,eval_results_standard_20260706_112205.json
+A0459,Standard RAG,llama3.1:8b,Q22,collaborative_shared_vibe,3,eval_results_standard_20260706_081128.json
+A0460,Act-only,llama3.1:8b,Q01,1-hop_author,1,eval_results_act_only_llama31_20260706_015432.json
+A0461,CoT-RAG,llama3.1:8b,Q90,collaborative_shared_vibe,3,eval_results_cot_rag_llama31_20260706_015432.json
+A0462,Planned,llama3.1:8b,Q70,2-hop_author_vibe,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0463,Planned,qwen2.5:7b,Q89,collaborative_shared_vibe,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0464,Pure ReAct,llama3.1:8b,Q82,2-hop_collectiontype_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A0465,Vector-Gated v2,llama3.1:8b,Q71,2-hop_author_vibe,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0466,Planned,qwen2.5:7b,Q34,1-hop_author,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0467,Pure ReAct,llama3.1:8b,Q25,runtime_similarity,1,eval_results_pure_react_llama31_20260706_015432.json
+A0468,Vector-Gated v2,llama3.1:8b,Q93,collaborative_shared_ddc,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0469,CoT-RAG,qwen2.5:7b,Q96,runtime_similarity,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0470,CoT-RAG,qwen2.5:7b,Q57,1-hop_publisher_city,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0471,Vector-Gated v2,llama3.1:8b,Q12,2-hop_vibe_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0472,Pure ReAct,llama3.1:8b,Q17,2-hop_ddc_branch,2,eval_results_pure_react_llama31_20260706_015432.json
+A0473,Pure ReAct,llama3.1:8b,Q91,collaborative_shared_vibe,3,eval_results_pure_react_llama31_20260706_015432.json
+A0474,Planned,llama3.1:8b,Q72,2-hop_author_vibe,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0475,Vector-Gated v2,qwen2.5:7b,Q32,1-hop_author,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0476,Vector-Gated v2,qwen2.5:7b,Q23,collaborative_shared_vibe,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0477,Standard RAG,llama3.1:8b,Q39,1-hop_setting,1,eval_results_standard_20260706_081128.json
+A0478,Standard RAG,qwen2.5:7b,Q02,1-hop_vibe,1,eval_results_standard_20260706_112205.json
+A0479,Planned,qwen2.5:7b,Q57,1-hop_publisher_city,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0480,Pure ReAct,llama3.1:8b,Q44,1-hop_category,1,eval_results_pure_react_llama31_20260706_015432.json
+A0481,Standard RAG,qwen2.5:7b,Q93,collaborative_shared_ddc,3,eval_results_standard_20260706_112205.json
+A0482,Act-only,llama3.1:8b,Q65,2-hop_vibe_category,2,eval_results_act_only_llama31_20260706_015432.json
+A0483,CoT-RAG,qwen2.5:7b,Q47,1-hop_ddc,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0484,CoT-RAG,llama3.1:8b,Q95,runtime_similarity,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0485,Act-only,llama3.1:8b,Q90,collaborative_shared_vibe,3,eval_results_act_only_llama31_20260706_015432.json
+A0486,Pure ReAct,llama3.1:8b,Q14,2-hop_author_vibe,2,eval_results_pure_react_llama31_20260706_015432.json
+A0487,Planned,qwen2.5:7b,Q76,2-hop_author_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0488,CoT-RAG,llama3.1:8b,Q97,runtime_similarity,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0489,Vector-Gated v2,qwen2.5:7b,Q93,collaborative_shared_ddc,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0490,Vector-Gated v2,llama3.1:8b,Q26,runtime_similarity,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0491,Act-only,qwen2.5:7b,Q26,runtime_similarity,1,eval_results_act_only_qwen25_20260706_050120.json
+A0492,Act-only,llama3.1:8b,Q20,3-hop_vibe_setting_category,3,eval_results_act_only_llama31_20260706_015432.json
+A0493,Act-only,qwen2.5:7b,Q60,2-hop_vibe_setting,2,eval_results_act_only_qwen25_20260706_050120.json
+A0494,Act-only,qwen2.5:7b,Q09,2-hop_vibe_setting,2,eval_results_act_only_qwen25_20260706_050120.json
+A0495,CoT-RAG,qwen2.5:7b,Q68,2-hop_setting_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0496,CoT-RAG,qwen2.5:7b,Q83,2-hop_collectiontype_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0497,Planned,llama3.1:8b,Q57,1-hop_publisher_city,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0498,Vector-Gated v2,qwen2.5:7b,Q26,runtime_similarity,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0499,CoT-RAG,qwen2.5:7b,Q11,2-hop_vibe_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0500,Planned,llama3.1:8b,Q48,1-hop_ddc,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0501,Standard RAG,qwen2.5:7b,Q89,collaborative_shared_vibe,3,eval_results_standard_20260706_112205.json
+A0502,Act-only,qwen2.5:7b,Q82,2-hop_collectiontype_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0503,Planned,llama3.1:8b,Q36,1-hop_vibe,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0504,Pure ReAct,qwen2.5:7b,Q29,branch_filter_author,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0505,CoT-RAG,llama3.1:8b,Q39,1-hop_setting,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0506,Pure ReAct,qwen2.5:7b,Q17,2-hop_ddc_branch,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0507,Act-only,llama3.1:8b,Q86,3-hop_vibe_setting_category,3,eval_results_act_only_llama31_20260706_015432.json
+A0508,Vector-Gated v2,llama3.1:8b,Q24,collaborative_shared_ddc,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0509,Vector-Gated v2,qwen2.5:7b,Q06,1-hop_language,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0510,CoT-RAG,qwen2.5:7b,Q43,1-hop_category,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0511,Planned,llama3.1:8b,Q42,1-hop_setting,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0512,Standard RAG,qwen2.5:7b,Q30,branch_filter_vibe,2,eval_results_standard_20260706_112205.json
+A0513,Act-only,qwen2.5:7b,Q96,runtime_similarity,1,eval_results_act_only_qwen25_20260706_050120.json
+A0514,Act-only,qwen2.5:7b,Q81,2-hop_ddc_branch,2,eval_results_act_only_qwen25_20260706_050120.json
+A0515,Vector-Gated v2,qwen2.5:7b,Q92,collaborative_shared_ddc,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0516,Pure ReAct,qwen2.5:7b,Q45,1-hop_category,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0517,Act-only,qwen2.5:7b,Q100,branch_filter_author,2,eval_results_act_only_qwen25_20260706_050120.json
+A0518,Standard RAG,llama3.1:8b,Q32,1-hop_author,1,eval_results_standard_20260706_081128.json
+A0519,Standard RAG,llama3.1:8b,Q42,1-hop_setting,1,eval_results_standard_20260706_081128.json
+A0520,Vector-Gated v2,llama3.1:8b,Q52,1-hop_language,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0521,Planned,llama3.1:8b,Q62,2-hop_vibe_setting,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0522,Pure ReAct,qwen2.5:7b,Q43,1-hop_category,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0523,Standard RAG,llama3.1:8b,Q54,1-hop_character,1,eval_results_standard_20260706_081128.json
+A0524,Standard RAG,llama3.1:8b,Q20,3-hop_vibe_setting_category,3,eval_results_standard_20260706_081128.json
+A0525,Vector-Gated v2,qwen2.5:7b,Q94,collaborative_shared_ddc,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0526,Vector-Gated v2,llama3.1:8b,Q87,3-hop_vibe_setting_category,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0527,CoT-RAG,llama3.1:8b,Q59,2-hop_vibe_setting,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0528,Act-only,llama3.1:8b,Q32,1-hop_author,1,eval_results_act_only_llama31_20260706_015432.json
+A0529,CoT-RAG,llama3.1:8b,Q85,3-hop_vibe_setting_category,3,eval_results_cot_rag_llama31_20260706_015432.json
+A0530,Vector-Gated v2,llama3.1:8b,Q82,2-hop_collectiontype_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0531,CoT-RAG,qwen2.5:7b,Q46,1-hop_category,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0532,Pure ReAct,llama3.1:8b,Q85,3-hop_vibe_setting_category,3,eval_results_pure_react_llama31_20260706_015432.json
+A0533,Vector-Gated v2,qwen2.5:7b,Q35,1-hop_vibe,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0534,CoT-RAG,llama3.1:8b,Q17,2-hop_ddc_branch,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0535,CoT-RAG,qwen2.5:7b,Q36,1-hop_vibe,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0536,Pure ReAct,qwen2.5:7b,Q38,1-hop_vibe,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0537,CoT-RAG,llama3.1:8b,Q67,2-hop_setting_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0538,Vector-Gated v2,llama3.1:8b,Q23,collaborative_shared_vibe,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0539,Planned,qwen2.5:7b,Q59,2-hop_vibe_setting,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0540,Act-only,llama3.1:8b,Q73,2-hop_author_setting,2,eval_results_act_only_llama31_20260706_015432.json
+A0541,Planned,llama3.1:8b,Q27,runtime_similarity,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0542,Act-only,llama3.1:8b,Q39,1-hop_setting,1,eval_results_act_only_llama31_20260706_015432.json
+A0543,Standard RAG,llama3.1:8b,Q86,3-hop_vibe_setting_category,3,eval_results_standard_20260706_081128.json
+A0544,Act-only,qwen2.5:7b,Q46,1-hop_category,1,eval_results_act_only_qwen25_20260706_050120.json
+A0545,Act-only,llama3.1:8b,Q04,1-hop_category,1,eval_results_act_only_llama31_20260706_015432.json
+A0546,Standard RAG,llama3.1:8b,Q28,branch_filter_vibe,2,eval_results_standard_20260706_081128.json
+A0547,Pure ReAct,llama3.1:8b,Q79,2-hop_ddc_branch,2,eval_results_pure_react_llama31_20260706_015432.json
+A0548,Planned,llama3.1:8b,Q54,1-hop_character,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0549,Standard RAG,qwen2.5:7b,Q70,2-hop_author_vibe,2,eval_results_standard_20260706_112205.json
+A0550,Act-only,llama3.1:8b,Q15,2-hop_author_setting,2,eval_results_act_only_llama31_20260706_015432.json
+A0551,CoT-RAG,qwen2.5:7b,Q45,1-hop_category,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0552,Act-only,qwen2.5:7b,Q69,2-hop_setting_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0553,Standard RAG,llama3.1:8b,Q30,branch_filter_vibe,2,eval_results_standard_20260706_081128.json
+A0554,Vector-Gated v2,qwen2.5:7b,Q55,1-hop_character,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0555,Pure ReAct,qwen2.5:7b,Q03,1-hop_setting,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0556,CoT-RAG,llama3.1:8b,Q80,2-hop_ddc_branch,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0557,Pure ReAct,llama3.1:8b,Q24,collaborative_shared_ddc,3,eval_results_pure_react_llama31_20260706_015432.json
+A0558,Act-only,llama3.1:8b,Q100,branch_filter_author,2,eval_results_act_only_llama31_20260706_015432.json
+A0559,CoT-RAG,llama3.1:8b,Q26,runtime_similarity,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0560,Pure ReAct,llama3.1:8b,Q100,branch_filter_author,2,eval_results_pure_react_llama31_20260706_015432.json
+A0561,Vector-Gated v2,qwen2.5:7b,Q69,2-hop_setting_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0562,Vector-Gated v2,qwen2.5:7b,Q39,1-hop_setting,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0563,CoT-RAG,qwen2.5:7b,Q06,1-hop_language,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0564,CoT-RAG,qwen2.5:7b,Q61,2-hop_vibe_setting,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0565,Planned,llama3.1:8b,Q78,2-hop_author_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0566,Vector-Gated v2,qwen2.5:7b,Q11,2-hop_vibe_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0567,CoT-RAG,qwen2.5:7b,Q90,collaborative_shared_vibe,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A0568,Standard RAG,llama3.1:8b,Q21,3-hop_vibe_setting_category,3,eval_results_standard_20260706_081128.json
+A0569,CoT-RAG,qwen2.5:7b,Q99,branch_filter_vibe,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0570,Planned,llama3.1:8b,Q25,runtime_similarity,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0571,CoT-RAG,llama3.1:8b,Q12,2-hop_vibe_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0572,Standard RAG,llama3.1:8b,Q64,2-hop_vibe_category,2,eval_results_standard_20260706_081128.json
+A0573,Act-only,llama3.1:8b,Q26,runtime_similarity,1,eval_results_act_only_llama31_20260706_015432.json
+A0574,Act-only,llama3.1:8b,Q78,2-hop_author_category,2,eval_results_act_only_llama31_20260706_015432.json
+A0575,Vector-Gated v2,qwen2.5:7b,Q18,2-hop_collectiontype_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0576,Planned,qwen2.5:7b,Q85,3-hop_vibe_setting_category,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0577,Act-only,llama3.1:8b,Q18,2-hop_collectiontype_category,2,eval_results_act_only_llama31_20260706_015432.json
+A0578,Vector-Gated v2,llama3.1:8b,Q10,2-hop_vibe_setting,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0579,Planned,qwen2.5:7b,Q23,collaborative_shared_vibe,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0580,Planned,llama3.1:8b,Q18,2-hop_collectiontype_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0581,Standard RAG,qwen2.5:7b,Q57,1-hop_publisher_city,1,eval_results_standard_20260706_112205.json
+A0582,CoT-RAG,qwen2.5:7b,Q93,collaborative_shared_ddc,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A0583,CoT-RAG,llama3.1:8b,Q37,1-hop_vibe,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0584,Standard RAG,qwen2.5:7b,Q55,1-hop_character,1,eval_results_standard_20260706_112205.json
+A0585,Planned,llama3.1:8b,Q53,1-hop_character,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0586,Planned,llama3.1:8b,Q13,2-hop_setting_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0587,Planned,llama3.1:8b,Q90,collaborative_shared_vibe,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0588,Planned,llama3.1:8b,Q95,runtime_similarity,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0589,Pure ReAct,llama3.1:8b,Q51,1-hop_language,1,eval_results_pure_react_llama31_20260706_015432.json
+A0590,Vector-Gated v2,llama3.1:8b,Q25,runtime_similarity,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0591,Planned,qwen2.5:7b,Q22,collaborative_shared_vibe,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0592,Vector-Gated v2,qwen2.5:7b,Q34,1-hop_author,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0593,Standard RAG,llama3.1:8b,Q80,2-hop_ddc_branch,2,eval_results_standard_20260706_081128.json
+A0594,Act-only,llama3.1:8b,Q51,1-hop_language,1,eval_results_act_only_llama31_20260706_015432.json
+A0595,CoT-RAG,llama3.1:8b,Q82,2-hop_collectiontype_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0596,Vector-Gated v2,llama3.1:8b,Q75,2-hop_author_setting,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0597,Act-only,llama3.1:8b,Q97,runtime_similarity,1,eval_results_act_only_llama31_20260706_015432.json
+A0598,Act-only,qwen2.5:7b,Q34,1-hop_author,1,eval_results_act_only_qwen25_20260706_050120.json
+A0599,Vector-Gated v2,llama3.1:8b,Q08,1-hop_publisher_city,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0600,CoT-RAG,llama3.1:8b,Q54,1-hop_character,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0601,CoT-RAG,llama3.1:8b,Q66,2-hop_vibe_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0602,Planned,llama3.1:8b,Q37,1-hop_vibe,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0603,Planned,llama3.1:8b,Q41,1-hop_setting,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0604,Standard RAG,qwen2.5:7b,Q63,2-hop_vibe_category,2,eval_results_standard_20260706_112205.json
+A0605,Act-only,llama3.1:8b,Q57,1-hop_publisher_city,1,eval_results_act_only_llama31_20260706_015432.json
+A0606,Vector-Gated v2,llama3.1:8b,Q41,1-hop_setting,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0607,Act-only,llama3.1:8b,Q37,1-hop_vibe,1,eval_results_act_only_llama31_20260706_015432.json
+A0608,Act-only,qwen2.5:7b,Q17,2-hop_ddc_branch,2,eval_results_act_only_qwen25_20260706_050120.json
+A0609,Vector-Gated v2,qwen2.5:7b,Q67,2-hop_setting_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0610,CoT-RAG,qwen2.5:7b,Q25,runtime_similarity,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0611,Vector-Gated v2,llama3.1:8b,Q100,branch_filter_author,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0612,Act-only,qwen2.5:7b,Q73,2-hop_author_setting,2,eval_results_act_only_qwen25_20260706_050120.json
+A0613,Vector-Gated v2,qwen2.5:7b,Q08,1-hop_publisher_city,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0614,Pure ReAct,qwen2.5:7b,Q11,2-hop_vibe_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0615,Standard RAG,qwen2.5:7b,Q37,1-hop_vibe,1,eval_results_standard_20260706_112205.json
+A0616,Act-only,llama3.1:8b,Q68,2-hop_setting_category,2,eval_results_act_only_llama31_20260706_015432.json
+A0617,Standard RAG,qwen2.5:7b,Q25,runtime_similarity,1,eval_results_standard_20260706_112205.json
+A0618,Pure ReAct,qwen2.5:7b,Q73,2-hop_author_setting,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0619,Act-only,qwen2.5:7b,Q71,2-hop_author_vibe,2,eval_results_act_only_qwen25_20260706_050120.json
+A0620,Vector-Gated v2,qwen2.5:7b,Q13,2-hop_setting_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0621,Act-only,llama3.1:8b,Q76,2-hop_author_category,2,eval_results_act_only_llama31_20260706_015432.json
+A0622,Act-only,qwen2.5:7b,Q31,1-hop_author,1,eval_results_act_only_qwen25_20260706_050120.json
+A0623,Standard RAG,qwen2.5:7b,Q81,2-hop_ddc_branch,2,eval_results_standard_20260706_112205.json
+A0624,Planned,llama3.1:8b,Q97,runtime_similarity,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0625,Planned,qwen2.5:7b,Q16,2-hop_author_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0626,Vector-Gated v2,llama3.1:8b,Q29,branch_filter_author,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0627,Standard RAG,llama3.1:8b,Q06,1-hop_language,1,eval_results_standard_20260706_081128.json
+A0628,Pure ReAct,qwen2.5:7b,Q83,2-hop_collectiontype_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0629,CoT-RAG,llama3.1:8b,Q50,1-hop_ddc,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0630,Planned,qwen2.5:7b,Q38,1-hop_vibe,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0631,Act-only,qwen2.5:7b,Q07,1-hop_character,1,eval_results_act_only_qwen25_20260706_050120.json
+A0632,Planned,qwen2.5:7b,Q52,1-hop_language,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0633,Standard RAG,qwen2.5:7b,Q100,branch_filter_author,2,eval_results_standard_20260706_112205.json
+A0634,Act-only,qwen2.5:7b,Q90,collaborative_shared_vibe,3,eval_results_act_only_qwen25_20260706_050120.json
+A0635,Act-only,llama3.1:8b,Q25,runtime_similarity,1,eval_results_act_only_llama31_20260706_015432.json
+A0636,Planned,qwen2.5:7b,Q49,1-hop_ddc,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0637,Planned,qwen2.5:7b,Q33,1-hop_author,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0638,Pure ReAct,llama3.1:8b,Q26,runtime_similarity,1,eval_results_pure_react_llama31_20260706_015432.json
+A0639,Act-only,llama3.1:8b,Q87,3-hop_vibe_setting_category,3,eval_results_act_only_llama31_20260706_015432.json
+A0640,Vector-Gated v2,llama3.1:8b,Q51,1-hop_language,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0641,Standard RAG,llama3.1:8b,Q48,1-hop_ddc,1,eval_results_standard_20260706_081128.json
+A0642,Vector-Gated v2,qwen2.5:7b,Q66,2-hop_vibe_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0643,Standard RAG,qwen2.5:7b,Q51,1-hop_language,1,eval_results_standard_20260706_112205.json
+A0644,CoT-RAG,llama3.1:8b,Q04,1-hop_category,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0645,CoT-RAG,llama3.1:8b,Q31,1-hop_author,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0646,CoT-RAG,qwen2.5:7b,Q18,2-hop_collectiontype_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0647,Vector-Gated v2,qwen2.5:7b,Q70,2-hop_author_vibe,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0648,Vector-Gated v2,qwen2.5:7b,Q56,1-hop_publisher_city,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0649,CoT-RAG,qwen2.5:7b,Q44,1-hop_category,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0650,Vector-Gated v2,llama3.1:8b,Q88,3-hop_vibe_setting_category,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0651,Pure ReAct,llama3.1:8b,Q49,1-hop_ddc,1,eval_results_pure_react_llama31_20260706_015432.json
+A0652,Act-only,qwen2.5:7b,Q28,branch_filter_vibe,2,eval_results_act_only_qwen25_20260706_050120.json
+A0653,CoT-RAG,llama3.1:8b,Q91,collaborative_shared_vibe,3,eval_results_cot_rag_llama31_20260706_015432.json
+A0654,Standard RAG,llama3.1:8b,Q87,3-hop_vibe_setting_category,3,eval_results_standard_20260706_081128.json
+A0655,Standard RAG,qwen2.5:7b,Q74,2-hop_author_setting,2,eval_results_standard_20260706_112205.json
+A0656,Planned,llama3.1:8b,Q07,1-hop_character,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0657,Pure ReAct,qwen2.5:7b,Q10,2-hop_vibe_setting,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0658,Planned,llama3.1:8b,Q14,2-hop_author_vibe,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0659,Pure ReAct,llama3.1:8b,Q60,2-hop_vibe_setting,2,eval_results_pure_react_llama31_20260706_015432.json
+A0660,Pure ReAct,qwen2.5:7b,Q98,branch_filter_vibe,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0661,Planned,qwen2.5:7b,Q46,1-hop_category,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0662,CoT-RAG,qwen2.5:7b,Q30,branch_filter_vibe,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0663,Pure ReAct,llama3.1:8b,Q22,collaborative_shared_vibe,3,eval_results_pure_react_llama31_20260706_015432.json
+A0664,Planned,qwen2.5:7b,Q78,2-hop_author_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0665,Planned,llama3.1:8b,Q91,collaborative_shared_vibe,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0666,Pure ReAct,qwen2.5:7b,Q75,2-hop_author_setting,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0667,CoT-RAG,llama3.1:8b,Q94,collaborative_shared_ddc,3,eval_results_cot_rag_llama31_20260706_015432.json
+A0668,CoT-RAG,qwen2.5:7b,Q12,2-hop_vibe_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0669,Standard RAG,llama3.1:8b,Q01,1-hop_author,1,eval_results_standard_20260706_081128.json
+A0670,Act-only,qwen2.5:7b,Q62,2-hop_vibe_setting,2,eval_results_act_only_qwen25_20260706_050120.json
+A0671,Act-only,llama3.1:8b,Q16,2-hop_author_category,2,eval_results_act_only_llama31_20260706_015432.json
+A0672,CoT-RAG,qwen2.5:7b,Q09,2-hop_vibe_setting,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0673,Act-only,qwen2.5:7b,Q83,2-hop_collectiontype_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0674,Pure ReAct,llama3.1:8b,Q31,1-hop_author,1,eval_results_pure_react_llama31_20260706_015432.json
+A0675,Planned,qwen2.5:7b,Q92,collaborative_shared_ddc,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0676,Planned,qwen2.5:7b,Q60,2-hop_vibe_setting,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0677,Act-only,llama3.1:8b,Q31,1-hop_author,1,eval_results_act_only_llama31_20260706_015432.json
+A0678,Vector-Gated v2,qwen2.5:7b,Q80,2-hop_ddc_branch,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0679,Pure ReAct,qwen2.5:7b,Q81,2-hop_ddc_branch,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0680,Vector-Gated v2,llama3.1:8b,Q36,1-hop_vibe,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0681,CoT-RAG,qwen2.5:7b,Q03,1-hop_setting,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0682,Vector-Gated v2,qwen2.5:7b,Q87,3-hop_vibe_setting_category,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0683,Planned,qwen2.5:7b,Q55,1-hop_character,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0684,Act-only,llama3.1:8b,Q19,3-hop_vibe_setting_category,3,eval_results_act_only_llama31_20260706_015432.json
+A0685,Vector-Gated v2,qwen2.5:7b,Q54,1-hop_character,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0686,CoT-RAG,qwen2.5:7b,Q17,2-hop_ddc_branch,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0687,Act-only,qwen2.5:7b,Q20,3-hop_vibe_setting_category,3,eval_results_act_only_qwen25_20260706_050120.json
+A0688,Vector-Gated v2,llama3.1:8b,Q69,2-hop_setting_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0689,Standard RAG,qwen2.5:7b,Q28,branch_filter_vibe,2,eval_results_standard_20260706_112205.json
+A0690,Vector-Gated v2,llama3.1:8b,Q34,1-hop_author,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0691,Pure ReAct,qwen2.5:7b,Q13,2-hop_setting_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0692,Planned,qwen2.5:7b,Q01,1-hop_author,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0693,Planned,llama3.1:8b,Q49,1-hop_ddc,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0694,Pure ReAct,llama3.1:8b,Q81,2-hop_ddc_branch,2,eval_results_pure_react_llama31_20260706_015432.json
+A0695,Pure ReAct,qwen2.5:7b,Q33,1-hop_author,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0696,Vector-Gated v2,qwen2.5:7b,Q100,branch_filter_author,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0697,CoT-RAG,qwen2.5:7b,Q73,2-hop_author_setting,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0698,CoT-RAG,llama3.1:8b,Q02,1-hop_vibe,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0699,Pure ReAct,llama3.1:8b,Q87,3-hop_vibe_setting_category,3,eval_results_pure_react_llama31_20260706_015432.json
+A0700,Act-only,qwen2.5:7b,Q52,1-hop_language,1,eval_results_act_only_qwen25_20260706_050120.json
+A0701,Act-only,qwen2.5:7b,Q33,1-hop_author,1,eval_results_act_only_qwen25_20260706_050120.json
+A0702,Planned,llama3.1:8b,Q66,2-hop_vibe_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0703,Pure ReAct,qwen2.5:7b,Q12,2-hop_vibe_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0704,Vector-Gated v2,llama3.1:8b,Q07,1-hop_character,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0705,CoT-RAG,llama3.1:8b,Q61,2-hop_vibe_setting,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0706,Vector-Gated v2,qwen2.5:7b,Q24,collaborative_shared_ddc,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0707,Planned,llama3.1:8b,Q100,branch_filter_author,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0708,CoT-RAG,qwen2.5:7b,Q95,runtime_similarity,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0709,Pure ReAct,qwen2.5:7b,Q96,runtime_similarity,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0710,Act-only,qwen2.5:7b,Q24,collaborative_shared_ddc,3,eval_results_act_only_qwen25_20260706_050120.json
+A0711,Pure ReAct,llama3.1:8b,Q21,3-hop_vibe_setting_category,3,eval_results_pure_react_llama31_20260706_015432.json
+A0712,Act-only,llama3.1:8b,Q47,1-hop_ddc,1,eval_results_act_only_llama31_20260706_015432.json
+A0713,Vector-Gated v2,llama3.1:8b,Q76,2-hop_author_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0714,CoT-RAG,qwen2.5:7b,Q54,1-hop_character,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0715,Act-only,llama3.1:8b,Q45,1-hop_category,1,eval_results_act_only_llama31_20260706_015432.json
+A0716,Pure ReAct,llama3.1:8b,Q11,2-hop_vibe_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A0717,Vector-Gated v2,qwen2.5:7b,Q82,2-hop_collectiontype_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0718,Planned,qwen2.5:7b,Q41,1-hop_setting,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0719,Vector-Gated v2,llama3.1:8b,Q55,1-hop_character,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0720,Act-only,qwen2.5:7b,Q95,runtime_similarity,1,eval_results_act_only_qwen25_20260706_050120.json
+A0721,Standard RAG,qwen2.5:7b,Q83,2-hop_collectiontype_category,2,eval_results_standard_20260706_112205.json
+A0722,Vector-Gated v2,llama3.1:8b,Q80,2-hop_ddc_branch,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0723,Vector-Gated v2,llama3.1:8b,Q30,branch_filter_vibe,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0724,Standard RAG,llama3.1:8b,Q29,branch_filter_author,2,eval_results_standard_20260706_081128.json
+A0725,CoT-RAG,qwen2.5:7b,Q40,1-hop_setting,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0726,Vector-Gated v2,qwen2.5:7b,Q78,2-hop_author_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0727,Pure ReAct,llama3.1:8b,Q96,runtime_similarity,1,eval_results_pure_react_llama31_20260706_015432.json
+A0728,Act-only,llama3.1:8b,Q10,2-hop_vibe_setting,2,eval_results_act_only_llama31_20260706_015432.json
+A0729,Act-only,qwen2.5:7b,Q22,collaborative_shared_vibe,3,eval_results_act_only_qwen25_20260706_050120.json
+A0730,Pure ReAct,llama3.1:8b,Q57,1-hop_publisher_city,1,eval_results_pure_react_llama31_20260706_015432.json
+A0731,CoT-RAG,qwen2.5:7b,Q60,2-hop_vibe_setting,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0732,Vector-Gated v2,qwen2.5:7b,Q64,2-hop_vibe_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0733,Standard RAG,llama3.1:8b,Q72,2-hop_author_vibe,2,eval_results_standard_20260706_081128.json
+A0734,Vector-Gated v2,qwen2.5:7b,Q73,2-hop_author_setting,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0735,CoT-RAG,qwen2.5:7b,Q37,1-hop_vibe,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0736,Act-only,llama3.1:8b,Q09,2-hop_vibe_setting,2,eval_results_act_only_llama31_20260706_015432.json
+A0737,Standard RAG,qwen2.5:7b,Q98,branch_filter_vibe,2,eval_results_standard_20260706_112205.json
+A0738,Pure ReAct,llama3.1:8b,Q76,2-hop_author_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A0739,Standard RAG,llama3.1:8b,Q25,runtime_similarity,1,eval_results_standard_20260706_081128.json
+A0740,Planned,llama3.1:8b,Q83,2-hop_collectiontype_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0741,CoT-RAG,llama3.1:8b,Q34,1-hop_author,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0742,CoT-RAG,qwen2.5:7b,Q13,2-hop_setting_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0743,CoT-RAG,qwen2.5:7b,Q59,2-hop_vibe_setting,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0744,Planned,llama3.1:8b,Q33,1-hop_author,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0745,CoT-RAG,llama3.1:8b,Q05,1-hop_ddc,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0746,CoT-RAG,llama3.1:8b,Q28,branch_filter_vibe,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0747,Act-only,llama3.1:8b,Q82,2-hop_collectiontype_category,2,eval_results_act_only_llama31_20260706_015432.json
+A0748,Planned,llama3.1:8b,Q63,2-hop_vibe_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0749,CoT-RAG,qwen2.5:7b,Q92,collaborative_shared_ddc,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A0750,Standard RAG,qwen2.5:7b,Q11,2-hop_vibe_category,2,eval_results_standard_20260706_112205.json
+A0751,Pure ReAct,qwen2.5:7b,Q19,3-hop_vibe_setting_category,3,eval_results_pure_react_qwen25_20260706_050120.json
+A0752,Planned,qwen2.5:7b,Q47,1-hop_ddc,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0753,CoT-RAG,llama3.1:8b,Q74,2-hop_author_setting,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0754,Vector-Gated v2,qwen2.5:7b,Q81,2-hop_ddc_branch,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0755,Pure ReAct,qwen2.5:7b,Q53,1-hop_character,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0756,Planned,qwen2.5:7b,Q06,1-hop_language,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0757,Act-only,llama3.1:8b,Q22,collaborative_shared_vibe,3,eval_results_act_only_llama31_20260706_015432.json
+A0758,CoT-RAG,qwen2.5:7b,Q41,1-hop_setting,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0759,Pure ReAct,qwen2.5:7b,Q55,1-hop_character,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0760,Standard RAG,qwen2.5:7b,Q84,2-hop_collectiontype_category,2,eval_results_standard_20260706_112205.json
+A0761,Standard RAG,llama3.1:8b,Q26,runtime_similarity,1,eval_results_standard_20260706_081128.json
+A0762,Act-only,llama3.1:8b,Q23,collaborative_shared_vibe,3,eval_results_act_only_llama31_20260706_015432.json
+A0763,Standard RAG,qwen2.5:7b,Q82,2-hop_collectiontype_category,2,eval_results_standard_20260706_112205.json
+A0764,Standard RAG,qwen2.5:7b,Q67,2-hop_setting_category,2,eval_results_standard_20260706_112205.json
+A0765,Vector-Gated v2,qwen2.5:7b,Q52,1-hop_language,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0766,Vector-Gated v2,qwen2.5:7b,Q44,1-hop_category,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0767,Pure ReAct,llama3.1:8b,Q36,1-hop_vibe,1,eval_results_pure_react_llama31_20260706_015432.json
+A0768,Vector-Gated v2,qwen2.5:7b,Q50,1-hop_ddc,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0769,Act-only,qwen2.5:7b,Q74,2-hop_author_setting,2,eval_results_act_only_qwen25_20260706_050120.json
+A0770,Vector-Gated v2,qwen2.5:7b,Q99,branch_filter_vibe,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0771,Standard RAG,qwen2.5:7b,Q06,1-hop_language,1,eval_results_standard_20260706_112205.json
+A0772,Pure ReAct,llama3.1:8b,Q83,2-hop_collectiontype_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A0773,Vector-Gated v2,qwen2.5:7b,Q71,2-hop_author_vibe,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0774,Pure ReAct,llama3.1:8b,Q99,branch_filter_vibe,2,eval_results_pure_react_llama31_20260706_015432.json
+A0775,Planned,qwen2.5:7b,Q21,3-hop_vibe_setting_category,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0776,CoT-RAG,qwen2.5:7b,Q67,2-hop_setting_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0777,Vector-Gated v2,llama3.1:8b,Q89,collaborative_shared_vibe,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0778,CoT-RAG,qwen2.5:7b,Q74,2-hop_author_setting,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0779,CoT-RAG,qwen2.5:7b,Q16,2-hop_author_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0780,Standard RAG,llama3.1:8b,Q43,1-hop_category,1,eval_results_standard_20260706_081128.json
+A0781,Planned,llama3.1:8b,Q93,collaborative_shared_ddc,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0782,Planned,qwen2.5:7b,Q70,2-hop_author_vibe,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0783,Standard RAG,qwen2.5:7b,Q52,1-hop_language,1,eval_results_standard_20260706_112205.json
+A0784,Act-only,qwen2.5:7b,Q66,2-hop_vibe_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0785,Act-only,qwen2.5:7b,Q97,runtime_similarity,1,eval_results_act_only_qwen25_20260706_050120.json
+A0786,Vector-Gated v2,llama3.1:8b,Q50,1-hop_ddc,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0787,Standard RAG,llama3.1:8b,Q37,1-hop_vibe,1,eval_results_standard_20260706_081128.json
+A0788,Act-only,qwen2.5:7b,Q59,2-hop_vibe_setting,2,eval_results_act_only_qwen25_20260706_050120.json
+A0789,Standard RAG,qwen2.5:7b,Q53,1-hop_character,1,eval_results_standard_20260706_112205.json
+A0790,Pure ReAct,qwen2.5:7b,Q08,1-hop_publisher_city,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0791,Vector-Gated v2,qwen2.5:7b,Q68,2-hop_setting_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0792,Planned,qwen2.5:7b,Q25,runtime_similarity,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0793,Vector-Gated v2,llama3.1:8b,Q64,2-hop_vibe_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0794,Act-only,qwen2.5:7b,Q75,2-hop_author_setting,2,eval_results_act_only_qwen25_20260706_050120.json
+A0795,Act-only,llama3.1:8b,Q38,1-hop_vibe,1,eval_results_act_only_llama31_20260706_015432.json
+A0796,Pure ReAct,qwen2.5:7b,Q23,collaborative_shared_vibe,3,eval_results_pure_react_qwen25_20260706_050120.json
+A0797,Act-only,qwen2.5:7b,Q65,2-hop_vibe_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0798,Act-only,llama3.1:8b,Q53,1-hop_character,1,eval_results_act_only_llama31_20260706_015432.json
+A0799,Pure ReAct,qwen2.5:7b,Q60,2-hop_vibe_setting,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0800,Standard RAG,qwen2.5:7b,Q66,2-hop_vibe_category,2,eval_results_standard_20260706_112205.json
+A0801,CoT-RAG,llama3.1:8b,Q69,2-hop_setting_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0802,Pure ReAct,llama3.1:8b,Q53,1-hop_character,1,eval_results_pure_react_llama31_20260706_015432.json
+A0803,Standard RAG,qwen2.5:7b,Q34,1-hop_author,1,eval_results_standard_20260706_112205.json
+A0804,Pure ReAct,qwen2.5:7b,Q90,collaborative_shared_vibe,3,eval_results_pure_react_qwen25_20260706_050120.json
+A0805,CoT-RAG,qwen2.5:7b,Q42,1-hop_setting,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0806,Standard RAG,llama3.1:8b,Q04,1-hop_category,1,eval_results_standard_20260706_081128.json
+A0807,Standard RAG,llama3.1:8b,Q46,1-hop_category,1,eval_results_standard_20260706_081128.json
+A0808,Planned,qwen2.5:7b,Q02,1-hop_vibe,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0809,Vector-Gated v2,qwen2.5:7b,Q33,1-hop_author,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0810,Vector-Gated v2,llama3.1:8b,Q17,2-hop_ddc_branch,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0811,Standard RAG,llama3.1:8b,Q95,runtime_similarity,1,eval_results_standard_20260706_081128.json
+A0812,Standard RAG,llama3.1:8b,Q53,1-hop_character,1,eval_results_standard_20260706_081128.json
+A0813,Planned,llama3.1:8b,Q52,1-hop_language,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0814,Act-only,qwen2.5:7b,Q01,1-hop_author,1,eval_results_act_only_qwen25_20260706_050120.json
+A0815,Act-only,qwen2.5:7b,Q18,2-hop_collectiontype_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0816,Vector-Gated v2,llama3.1:8b,Q31,1-hop_author,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0817,Pure ReAct,llama3.1:8b,Q50,1-hop_ddc,1,eval_results_pure_react_llama31_20260706_015432.json
+A0818,Pure ReAct,qwen2.5:7b,Q04,1-hop_category,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0819,CoT-RAG,llama3.1:8b,Q09,2-hop_vibe_setting,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0820,CoT-RAG,qwen2.5:7b,Q52,1-hop_language,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0821,Pure ReAct,qwen2.5:7b,Q35,1-hop_vibe,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0822,CoT-RAG,llama3.1:8b,Q16,2-hop_author_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0823,Pure ReAct,llama3.1:8b,Q20,3-hop_vibe_setting_category,3,eval_results_pure_react_llama31_20260706_015432.json
+A0824,CoT-RAG,llama3.1:8b,Q89,collaborative_shared_vibe,3,eval_results_cot_rag_llama31_20260706_015432.json
+A0825,CoT-RAG,llama3.1:8b,Q79,2-hop_ddc_branch,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0826,Standard RAG,qwen2.5:7b,Q60,2-hop_vibe_setting,2,eval_results_standard_20260706_112205.json
+A0827,Act-only,qwen2.5:7b,Q67,2-hop_setting_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0828,Pure ReAct,qwen2.5:7b,Q61,2-hop_vibe_setting,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0829,Standard RAG,qwen2.5:7b,Q10,2-hop_vibe_setting,2,eval_results_standard_20260706_112205.json
+A0830,Planned,llama3.1:8b,Q58,1-hop_publisher_city,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0831,CoT-RAG,llama3.1:8b,Q71,2-hop_author_vibe,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0832,Standard RAG,qwen2.5:7b,Q38,1-hop_vibe,1,eval_results_standard_20260706_112205.json
+A0833,Standard RAG,qwen2.5:7b,Q07,1-hop_character,1,eval_results_standard_20260706_112205.json
+A0834,Pure ReAct,llama3.1:8b,Q80,2-hop_ddc_branch,2,eval_results_pure_react_llama31_20260706_015432.json
+A0835,CoT-RAG,qwen2.5:7b,Q07,1-hop_character,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0836,Act-only,qwen2.5:7b,Q68,2-hop_setting_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0837,Vector-Gated v2,llama3.1:8b,Q37,1-hop_vibe,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0838,Pure ReAct,llama3.1:8b,Q84,2-hop_collectiontype_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A0839,Standard RAG,llama3.1:8b,Q09,2-hop_vibe_setting,2,eval_results_standard_20260706_081128.json
+A0840,Planned,qwen2.5:7b,Q62,2-hop_vibe_setting,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0841,Vector-Gated v2,qwen2.5:7b,Q91,collaborative_shared_vibe,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0842,Planned,llama3.1:8b,Q06,1-hop_language,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0843,Pure ReAct,llama3.1:8b,Q27,runtime_similarity,1,eval_results_pure_react_llama31_20260706_015432.json
+A0844,CoT-RAG,qwen2.5:7b,Q10,2-hop_vibe_setting,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0845,Pure ReAct,qwen2.5:7b,Q21,3-hop_vibe_setting_category,3,eval_results_pure_react_qwen25_20260706_050120.json
+A0846,Act-only,qwen2.5:7b,Q57,1-hop_publisher_city,1,eval_results_act_only_qwen25_20260706_050120.json
+A0847,Act-only,llama3.1:8b,Q49,1-hop_ddc,1,eval_results_act_only_llama31_20260706_015432.json
+A0848,Vector-Gated v2,qwen2.5:7b,Q07,1-hop_character,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0849,CoT-RAG,llama3.1:8b,Q92,collaborative_shared_ddc,3,eval_results_cot_rag_llama31_20260706_015432.json
+A0850,CoT-RAG,qwen2.5:7b,Q79,2-hop_ddc_branch,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0851,CoT-RAG,llama3.1:8b,Q51,1-hop_language,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0852,Vector-Gated v2,qwen2.5:7b,Q01,1-hop_author,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0853,CoT-RAG,qwen2.5:7b,Q58,1-hop_publisher_city,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0854,Planned,llama3.1:8b,Q16,2-hop_author_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0855,Vector-Gated v2,qwen2.5:7b,Q09,2-hop_vibe_setting,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0856,Act-only,qwen2.5:7b,Q19,3-hop_vibe_setting_category,3,eval_results_act_only_qwen25_20260706_050120.json
+A0857,Planned,qwen2.5:7b,Q30,branch_filter_vibe,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0858,Act-only,qwen2.5:7b,Q51,1-hop_language,1,eval_results_act_only_qwen25_20260706_050120.json
+A0859,Standard RAG,llama3.1:8b,Q76,2-hop_author_category,2,eval_results_standard_20260706_081128.json
+A0860,Standard RAG,qwen2.5:7b,Q03,1-hop_setting,1,eval_results_standard_20260706_112205.json
+A0861,Act-only,qwen2.5:7b,Q77,2-hop_author_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0862,Pure ReAct,llama3.1:8b,Q37,1-hop_vibe,1,eval_results_pure_react_llama31_20260706_015432.json
+A0863,Planned,qwen2.5:7b,Q24,collaborative_shared_ddc,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0864,Standard RAG,llama3.1:8b,Q10,2-hop_vibe_setting,2,eval_results_standard_20260706_081128.json
+A0865,Standard RAG,llama3.1:8b,Q75,2-hop_author_setting,2,eval_results_standard_20260706_081128.json
+A0866,Pure ReAct,qwen2.5:7b,Q70,2-hop_author_vibe,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0867,Vector-Gated v2,llama3.1:8b,Q81,2-hop_ddc_branch,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0868,Planned,llama3.1:8b,Q28,branch_filter_vibe,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0869,CoT-RAG,qwen2.5:7b,Q08,1-hop_publisher_city,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0870,Pure ReAct,llama3.1:8b,Q61,2-hop_vibe_setting,2,eval_results_pure_react_llama31_20260706_015432.json
+A0871,Pure ReAct,llama3.1:8b,Q88,3-hop_vibe_setting_category,3,eval_results_pure_react_llama31_20260706_015432.json
+A0872,Standard RAG,qwen2.5:7b,Q35,1-hop_vibe,1,eval_results_standard_20260706_112205.json
+A0873,Act-only,llama3.1:8b,Q06,1-hop_language,1,eval_results_act_only_llama31_20260706_015432.json
+A0874,Vector-Gated v2,qwen2.5:7b,Q38,1-hop_vibe,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0875,CoT-RAG,llama3.1:8b,Q45,1-hop_category,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0876,Vector-Gated v2,qwen2.5:7b,Q15,2-hop_author_setting,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0877,Pure ReAct,qwen2.5:7b,Q34,1-hop_author,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0878,Planned,llama3.1:8b,Q20,3-hop_vibe_setting_category,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0879,Planned,qwen2.5:7b,Q68,2-hop_setting_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0880,CoT-RAG,llama3.1:8b,Q68,2-hop_setting_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0881,Planned,llama3.1:8b,Q80,2-hop_ddc_branch,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0882,Act-only,qwen2.5:7b,Q36,1-hop_vibe,1,eval_results_act_only_qwen25_20260706_050120.json
+A0883,Act-only,qwen2.5:7b,Q79,2-hop_ddc_branch,2,eval_results_act_only_qwen25_20260706_050120.json
+A0884,Act-only,qwen2.5:7b,Q98,branch_filter_vibe,2,eval_results_act_only_qwen25_20260706_050120.json
+A0885,Pure ReAct,llama3.1:8b,Q74,2-hop_author_setting,2,eval_results_pure_react_llama31_20260706_015432.json
+A0886,Planned,qwen2.5:7b,Q37,1-hop_vibe,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0887,Standard RAG,llama3.1:8b,Q84,2-hop_collectiontype_category,2,eval_results_standard_20260706_081128.json
+A0888,Pure ReAct,llama3.1:8b,Q35,1-hop_vibe,1,eval_results_pure_react_llama31_20260706_015432.json
+A0889,Standard RAG,llama3.1:8b,Q41,1-hop_setting,1,eval_results_standard_20260706_081128.json
+A0890,Pure ReAct,llama3.1:8b,Q09,2-hop_vibe_setting,2,eval_results_pure_react_llama31_20260706_015432.json
+A0891,Planned,qwen2.5:7b,Q48,1-hop_ddc,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0892,CoT-RAG,llama3.1:8b,Q53,1-hop_character,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0893,Act-only,qwen2.5:7b,Q84,2-hop_collectiontype_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A0894,Standard RAG,qwen2.5:7b,Q23,collaborative_shared_vibe,3,eval_results_standard_20260706_112205.json
+A0895,Act-only,llama3.1:8b,Q14,2-hop_author_vibe,2,eval_results_act_only_llama31_20260706_015432.json
+A0896,CoT-RAG,llama3.1:8b,Q41,1-hop_setting,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0897,Vector-Gated v2,qwen2.5:7b,Q65,2-hop_vibe_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0898,Pure ReAct,llama3.1:8b,Q92,collaborative_shared_ddc,3,eval_results_pure_react_llama31_20260706_015432.json
+A0899,Standard RAG,llama3.1:8b,Q70,2-hop_author_vibe,2,eval_results_standard_20260706_081128.json
+A0900,Pure ReAct,llama3.1:8b,Q10,2-hop_vibe_setting,2,eval_results_pure_react_llama31_20260706_015432.json
+A0901,Standard RAG,llama3.1:8b,Q71,2-hop_author_vibe,2,eval_results_standard_20260706_081128.json
+A0902,Standard RAG,qwen2.5:7b,Q91,collaborative_shared_vibe,3,eval_results_standard_20260706_112205.json
+A0903,Vector-Gated v2,llama3.1:8b,Q72,2-hop_author_vibe,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0904,Standard RAG,llama3.1:8b,Q83,2-hop_collectiontype_category,2,eval_results_standard_20260706_081128.json
+A0905,Act-only,qwen2.5:7b,Q21,3-hop_vibe_setting_category,3,eval_results_act_only_qwen25_20260706_050120.json
+A0906,Vector-Gated v2,qwen2.5:7b,Q14,2-hop_author_vibe,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0907,Planned,llama3.1:8b,Q56,1-hop_publisher_city,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0908,Act-only,qwen2.5:7b,Q44,1-hop_category,1,eval_results_act_only_qwen25_20260706_050120.json
+A0909,Vector-Gated v2,llama3.1:8b,Q74,2-hop_author_setting,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0910,Planned,llama3.1:8b,Q88,3-hop_vibe_setting_category,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0911,Act-only,llama3.1:8b,Q89,collaborative_shared_vibe,3,eval_results_act_only_llama31_20260706_015432.json
+A0912,Act-only,qwen2.5:7b,Q99,branch_filter_vibe,2,eval_results_act_only_qwen25_20260706_050120.json
+A0913,Vector-Gated v2,qwen2.5:7b,Q61,2-hop_vibe_setting,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0914,Standard RAG,llama3.1:8b,Q59,2-hop_vibe_setting,2,eval_results_standard_20260706_081128.json
+A0915,CoT-RAG,qwen2.5:7b,Q22,collaborative_shared_vibe,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A0916,Planned,llama3.1:8b,Q68,2-hop_setting_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0917,Vector-Gated v2,qwen2.5:7b,Q88,3-hop_vibe_setting_category,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0918,Act-only,qwen2.5:7b,Q56,1-hop_publisher_city,1,eval_results_act_only_qwen25_20260706_050120.json
+A0919,Pure ReAct,qwen2.5:7b,Q54,1-hop_character,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0920,Act-only,qwen2.5:7b,Q94,collaborative_shared_ddc,3,eval_results_act_only_qwen25_20260706_050120.json
+A0921,Standard RAG,llama3.1:8b,Q60,2-hop_vibe_setting,2,eval_results_standard_20260706_081128.json
+A0922,CoT-RAG,llama3.1:8b,Q23,collaborative_shared_vibe,3,eval_results_cot_rag_llama31_20260706_015432.json
+A0923,CoT-RAG,qwen2.5:7b,Q04,1-hop_category,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0924,Vector-Gated v2,qwen2.5:7b,Q79,2-hop_ddc_branch,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0925,Standard RAG,qwen2.5:7b,Q59,2-hop_vibe_setting,2,eval_results_standard_20260706_112205.json
+A0926,Act-only,llama3.1:8b,Q99,branch_filter_vibe,2,eval_results_act_only_llama31_20260706_015432.json
+A0927,Planned,qwen2.5:7b,Q64,2-hop_vibe_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0928,Pure ReAct,llama3.1:8b,Q78,2-hop_author_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A0929,Planned,qwen2.5:7b,Q43,1-hop_category,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0930,Vector-Gated v2,qwen2.5:7b,Q37,1-hop_vibe,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0931,Pure ReAct,qwen2.5:7b,Q49,1-hop_ddc,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0932,Pure ReAct,qwen2.5:7b,Q14,2-hop_author_vibe,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0933,Vector-Gated v2,qwen2.5:7b,Q98,branch_filter_vibe,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0934,Planned,qwen2.5:7b,Q12,2-hop_vibe_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0935,Act-only,llama3.1:8b,Q66,2-hop_vibe_category,2,eval_results_act_only_llama31_20260706_015432.json
+A0936,Planned,llama3.1:8b,Q08,1-hop_publisher_city,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0937,Vector-Gated v2,llama3.1:8b,Q03,1-hop_setting,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0938,CoT-RAG,llama3.1:8b,Q72,2-hop_author_vibe,2,eval_results_cot_rag_llama31_20260706_015432.json
+A0939,CoT-RAG,qwen2.5:7b,Q100,branch_filter_author,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A0940,Standard RAG,llama3.1:8b,Q03,1-hop_setting,1,eval_results_standard_20260706_081128.json
+A0941,CoT-RAG,qwen2.5:7b,Q89,collaborative_shared_vibe,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A0942,Standard RAG,qwen2.5:7b,Q69,2-hop_setting_category,2,eval_results_standard_20260706_112205.json
+A0943,Standard RAG,llama3.1:8b,Q61,2-hop_vibe_setting,2,eval_results_standard_20260706_081128.json
+A0944,Planned,llama3.1:8b,Q71,2-hop_author_vibe,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0945,Act-only,llama3.1:8b,Q11,2-hop_vibe_category,2,eval_results_act_only_llama31_20260706_015432.json
+A0946,Vector-Gated v2,llama3.1:8b,Q86,3-hop_vibe_setting_category,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0947,CoT-RAG,llama3.1:8b,Q19,3-hop_vibe_setting_category,3,eval_results_cot_rag_llama31_20260706_015432.json
+A0948,Act-only,llama3.1:8b,Q93,collaborative_shared_ddc,3,eval_results_act_only_llama31_20260706_015432.json
+A0949,Planned,llama3.1:8b,Q19,3-hop_vibe_setting_category,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0950,Planned,llama3.1:8b,Q05,1-hop_ddc,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0951,Standard RAG,qwen2.5:7b,Q71,2-hop_author_vibe,2,eval_results_standard_20260706_112205.json
+A0952,CoT-RAG,llama3.1:8b,Q43,1-hop_category,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0953,Vector-Gated v2,llama3.1:8b,Q70,2-hop_author_vibe,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0954,Pure ReAct,qwen2.5:7b,Q72,2-hop_author_vibe,2,eval_results_pure_react_qwen25_20260706_050120.json
+A0955,Vector-Gated v2,qwen2.5:7b,Q49,1-hop_ddc,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0956,Standard RAG,llama3.1:8b,Q96,runtime_similarity,1,eval_results_standard_20260706_081128.json
+A0957,Standard RAG,llama3.1:8b,Q16,2-hop_author_category,2,eval_results_standard_20260706_081128.json
+A0958,Vector-Gated v2,llama3.1:8b,Q57,1-hop_publisher_city,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0959,Act-only,qwen2.5:7b,Q54,1-hop_character,1,eval_results_act_only_qwen25_20260706_050120.json
+A0960,Pure ReAct,llama3.1:8b,Q68,2-hop_setting_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A0961,Planned,qwen2.5:7b,Q99,branch_filter_vibe,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0962,Vector-Gated v2,qwen2.5:7b,Q89,collaborative_shared_vibe,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0963,Planned,qwen2.5:7b,Q98,branch_filter_vibe,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0964,Vector-Gated v2,llama3.1:8b,Q77,2-hop_author_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0965,Vector-Gated v2,qwen2.5:7b,Q83,2-hop_collectiontype_category,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0966,Vector-Gated v2,llama3.1:8b,Q28,branch_filter_vibe,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0967,Act-only,llama3.1:8b,Q54,1-hop_character,1,eval_results_act_only_llama31_20260706_015432.json
+A0968,Standard RAG,llama3.1:8b,Q78,2-hop_author_category,2,eval_results_standard_20260706_081128.json
+A0969,Vector-Gated v2,qwen2.5:7b,Q46,1-hop_category,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A0970,Vector-Gated v2,llama3.1:8b,Q96,runtime_similarity,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0971,Planned,qwen2.5:7b,Q58,1-hop_publisher_city,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0972,Act-only,llama3.1:8b,Q74,2-hop_author_setting,2,eval_results_act_only_llama31_20260706_015432.json
+A0973,Planned,llama3.1:8b,Q21,3-hop_vibe_setting_category,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0974,Standard RAG,qwen2.5:7b,Q88,3-hop_vibe_setting_category,3,eval_results_standard_20260706_112205.json
+A0975,Planned,qwen2.5:7b,Q18,2-hop_collectiontype_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0976,Standard RAG,qwen2.5:7b,Q44,1-hop_category,1,eval_results_standard_20260706_112205.json
+A0977,Act-only,llama3.1:8b,Q60,2-hop_vibe_setting,2,eval_results_act_only_llama31_20260706_015432.json
+A0978,Act-only,qwen2.5:7b,Q50,1-hop_ddc,1,eval_results_act_only_qwen25_20260706_050120.json
+A0979,Planned,llama3.1:8b,Q04,1-hop_category,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0980,Standard RAG,qwen2.5:7b,Q97,runtime_similarity,1,eval_results_standard_20260706_112205.json
+A0981,CoT-RAG,llama3.1:8b,Q55,1-hop_character,1,eval_results_cot_rag_llama31_20260706_015432.json
+A0982,Standard RAG,qwen2.5:7b,Q12,2-hop_vibe_category,2,eval_results_standard_20260706_112205.json
+A0983,Vector-Gated v2,llama3.1:8b,Q83,2-hop_collectiontype_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0984,Vector-Gated v2,llama3.1:8b,Q20,3-hop_vibe_setting_category,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0985,CoT-RAG,qwen2.5:7b,Q48,1-hop_ddc,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A0986,Pure ReAct,qwen2.5:7b,Q46,1-hop_category,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0987,Act-only,llama3.1:8b,Q13,2-hop_setting_category,2,eval_results_act_only_llama31_20260706_015432.json
+A0988,Standard RAG,llama3.1:8b,Q63,2-hop_vibe_category,2,eval_results_standard_20260706_081128.json
+A0989,Standard RAG,qwen2.5:7b,Q01,1-hop_author,1,eval_results_standard_20260706_112205.json
+A0990,Pure ReAct,llama3.1:8b,Q62,2-hop_vibe_setting,2,eval_results_pure_react_llama31_20260706_015432.json
+A0991,Pure ReAct,llama3.1:8b,Q70,2-hop_author_vibe,2,eval_results_pure_react_llama31_20260706_015432.json
+A0992,Planned,qwen2.5:7b,Q69,2-hop_setting_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A0993,Standard RAG,llama3.1:8b,Q56,1-hop_publisher_city,1,eval_results_standard_20260706_081128.json
+A0994,Pure ReAct,qwen2.5:7b,Q47,1-hop_ddc,1,eval_results_pure_react_qwen25_20260706_050120.json
+A0995,Vector-Gated v2,llama3.1:8b,Q85,3-hop_vibe_setting_category,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A0996,Act-only,llama3.1:8b,Q79,2-hop_ddc_branch,2,eval_results_act_only_llama31_20260706_015432.json
+A0997,Act-only,llama3.1:8b,Q21,3-hop_vibe_setting_category,3,eval_results_act_only_llama31_20260706_015432.json
+A0998,Planned,llama3.1:8b,Q46,1-hop_category,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A0999,CoT-RAG,qwen2.5:7b,Q63,2-hop_vibe_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A1000,Act-only,llama3.1:8b,Q42,1-hop_setting,1,eval_results_act_only_llama31_20260706_015432.json
+A1001,Pure ReAct,llama3.1:8b,Q75,2-hop_author_setting,2,eval_results_pure_react_llama31_20260706_015432.json
+A1002,Standard RAG,llama3.1:8b,Q100,branch_filter_author,2,eval_results_standard_20260706_081128.json
+A1003,Planned,llama3.1:8b,Q98,branch_filter_vibe,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A1004,Standard RAG,qwen2.5:7b,Q95,runtime_similarity,1,eval_results_standard_20260706_112205.json
+A1005,Act-only,llama3.1:8b,Q17,2-hop_ddc_branch,2,eval_results_act_only_llama31_20260706_015432.json
+A1006,Vector-Gated v2,llama3.1:8b,Q27,runtime_similarity,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A1007,Planned,llama3.1:8b,Q10,2-hop_vibe_setting,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A1008,Vector-Gated v2,llama3.1:8b,Q04,1-hop_category,1,eval_results_agentic_llama_20260707_144026_noaudit.json
+A1009,CoT-RAG,llama3.1:8b,Q49,1-hop_ddc,1,eval_results_cot_rag_llama31_20260706_015432.json
+A1010,Act-only,llama3.1:8b,Q85,3-hop_vibe_setting_category,3,eval_results_act_only_llama31_20260706_015432.json
+A1011,Act-only,qwen2.5:7b,Q91,collaborative_shared_vibe,3,eval_results_act_only_qwen25_20260706_050120.json
+A1012,Act-only,qwen2.5:7b,Q85,3-hop_vibe_setting_category,3,eval_results_act_only_qwen25_20260706_050120.json
+A1013,Vector-Gated v2,qwen2.5:7b,Q04,1-hop_category,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A1014,Vector-Gated v2,qwen2.5:7b,Q58,1-hop_publisher_city,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A1015,Planned,qwen2.5:7b,Q53,1-hop_character,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1016,Planned,qwen2.5:7b,Q19,3-hop_vibe_setting_category,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1017,Planned,qwen2.5:7b,Q28,branch_filter_vibe,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1018,CoT-RAG,llama3.1:8b,Q20,3-hop_vibe_setting_category,3,eval_results_cot_rag_llama31_20260706_015432.json
+A1019,Act-only,llama3.1:8b,Q98,branch_filter_vibe,2,eval_results_act_only_llama31_20260706_015432.json
+A1020,Pure ReAct,llama3.1:8b,Q86,3-hop_vibe_setting_category,3,eval_results_pure_react_llama31_20260706_015432.json
+A1021,Planned,qwen2.5:7b,Q10,2-hop_vibe_setting,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1022,CoT-RAG,llama3.1:8b,Q44,1-hop_category,1,eval_results_cot_rag_llama31_20260706_015432.json
+A1023,Act-only,qwen2.5:7b,Q27,runtime_similarity,1,eval_results_act_only_qwen25_20260706_050120.json
+A1024,Planned,llama3.1:8b,Q30,branch_filter_vibe,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A1025,Pure ReAct,llama3.1:8b,Q77,2-hop_author_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A1026,Standard RAG,llama3.1:8b,Q65,2-hop_vibe_category,2,eval_results_standard_20260706_081128.json
+A1027,Standard RAG,qwen2.5:7b,Q39,1-hop_setting,1,eval_results_standard_20260706_112205.json
+A1028,Act-only,llama3.1:8b,Q69,2-hop_setting_category,2,eval_results_act_only_llama31_20260706_015432.json
+A1029,Standard RAG,qwen2.5:7b,Q21,3-hop_vibe_setting_category,3,eval_results_standard_20260706_112205.json
+A1030,Standard RAG,qwen2.5:7b,Q46,1-hop_category,1,eval_results_standard_20260706_112205.json
+A1031,Standard RAG,llama3.1:8b,Q15,2-hop_author_setting,2,eval_results_standard_20260706_081128.json
+A1032,Planned,qwen2.5:7b,Q79,2-hop_ddc_branch,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1033,Act-only,llama3.1:8b,Q72,2-hop_author_vibe,2,eval_results_act_only_llama31_20260706_015432.json
+A1034,Standard RAG,llama3.1:8b,Q44,1-hop_category,1,eval_results_standard_20260706_081128.json
+A1035,Pure ReAct,llama3.1:8b,Q93,collaborative_shared_ddc,3,eval_results_pure_react_llama31_20260706_015432.json
+A1036,Standard RAG,qwen2.5:7b,Q32,1-hop_author,1,eval_results_standard_20260706_112205.json
+A1037,Act-only,llama3.1:8b,Q61,2-hop_vibe_setting,2,eval_results_act_only_llama31_20260706_015432.json
+A1038,Act-only,qwen2.5:7b,Q08,1-hop_publisher_city,1,eval_results_act_only_qwen25_20260706_050120.json
+A1039,CoT-RAG,llama3.1:8b,Q48,1-hop_ddc,1,eval_results_cot_rag_llama31_20260706_015432.json
+A1040,Vector-Gated v2,qwen2.5:7b,Q25,runtime_similarity,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A1041,Vector-Gated v2,llama3.1:8b,Q98,branch_filter_vibe,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A1042,Pure ReAct,qwen2.5:7b,Q65,2-hop_vibe_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A1043,Planned,qwen2.5:7b,Q05,1-hop_ddc,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1044,Pure ReAct,llama3.1:8b,Q39,1-hop_setting,1,eval_results_pure_react_llama31_20260706_015432.json
+A1045,Act-only,llama3.1:8b,Q12,2-hop_vibe_category,2,eval_results_act_only_llama31_20260706_015432.json
+A1046,Act-only,llama3.1:8b,Q34,1-hop_author,1,eval_results_act_only_llama31_20260706_015432.json
+A1047,Vector-Gated v2,llama3.1:8b,Q67,2-hop_setting_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A1048,Planned,qwen2.5:7b,Q11,2-hop_vibe_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1049,CoT-RAG,qwen2.5:7b,Q39,1-hop_setting,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A1050,Vector-Gated v2,qwen2.5:7b,Q74,2-hop_author_setting,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A1051,CoT-RAG,llama3.1:8b,Q63,2-hop_vibe_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A1052,CoT-RAG,llama3.1:8b,Q58,1-hop_publisher_city,1,eval_results_cot_rag_llama31_20260706_015432.json
+A1053,Standard RAG,qwen2.5:7b,Q42,1-hop_setting,1,eval_results_standard_20260706_112205.json
+A1054,Vector-Gated v2,qwen2.5:7b,Q96,runtime_similarity,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A1055,Standard RAG,qwen2.5:7b,Q76,2-hop_author_category,2,eval_results_standard_20260706_112205.json
+A1056,Planned,qwen2.5:7b,Q56,1-hop_publisher_city,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1057,Act-only,llama3.1:8b,Q94,collaborative_shared_ddc,3,eval_results_act_only_llama31_20260706_015432.json
+A1058,Standard RAG,qwen2.5:7b,Q19,3-hop_vibe_setting_category,3,eval_results_standard_20260706_112205.json
+A1059,Act-only,llama3.1:8b,Q91,collaborative_shared_vibe,3,eval_results_act_only_llama31_20260706_015432.json
+A1060,Pure ReAct,llama3.1:8b,Q30,branch_filter_vibe,2,eval_results_pure_react_llama31_20260706_015432.json
+A1061,Pure ReAct,qwen2.5:7b,Q44,1-hop_category,1,eval_results_pure_react_qwen25_20260706_050120.json
+A1062,CoT-RAG,llama3.1:8b,Q30,branch_filter_vibe,2,eval_results_cot_rag_llama31_20260706_015432.json
+A1063,Standard RAG,llama3.1:8b,Q40,1-hop_setting,1,eval_results_standard_20260706_081128.json
+A1064,Planned,llama3.1:8b,Q01,1-hop_author,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A1065,Pure ReAct,llama3.1:8b,Q64,2-hop_vibe_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A1066,Standard RAG,llama3.1:8b,Q02,1-hop_vibe,1,eval_results_standard_20260706_081128.json
+A1067,CoT-RAG,qwen2.5:7b,Q31,1-hop_author,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A1068,Pure ReAct,qwen2.5:7b,Q66,2-hop_vibe_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A1069,Planned,llama3.1:8b,Q96,runtime_similarity,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A1070,Planned,qwen2.5:7b,Q82,2-hop_collectiontype_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1071,Planned,llama3.1:8b,Q74,2-hop_author_setting,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A1072,Pure ReAct,llama3.1:8b,Q12,2-hop_vibe_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A1073,CoT-RAG,llama3.1:8b,Q18,2-hop_collectiontype_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A1074,Planned,llama3.1:8b,Q40,1-hop_setting,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A1075,CoT-RAG,qwen2.5:7b,Q66,2-hop_vibe_category,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A1076,Planned,llama3.1:8b,Q26,runtime_similarity,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A1077,Act-only,qwen2.5:7b,Q40,1-hop_setting,1,eval_results_act_only_qwen25_20260706_050120.json
+A1078,Standard RAG,llama3.1:8b,Q07,1-hop_character,1,eval_results_standard_20260706_081128.json
+A1079,Vector-Gated v2,qwen2.5:7b,Q30,branch_filter_vibe,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A1080,CoT-RAG,qwen2.5:7b,Q24,collaborative_shared_ddc,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A1081,Vector-Gated v2,llama3.1:8b,Q91,collaborative_shared_vibe,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A1082,Pure ReAct,llama3.1:8b,Q02,1-hop_vibe,1,eval_results_pure_react_llama31_20260706_015432.json
+A1083,Planned,qwen2.5:7b,Q100,branch_filter_author,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1084,Planned,qwen2.5:7b,Q73,2-hop_author_setting,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1085,Planned,qwen2.5:7b,Q36,1-hop_vibe,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1086,CoT-RAG,llama3.1:8b,Q35,1-hop_vibe,1,eval_results_cot_rag_llama31_20260706_015432.json
+A1087,Standard RAG,llama3.1:8b,Q24,collaborative_shared_ddc,3,eval_results_standard_20260706_081128.json
+A1088,Act-only,qwen2.5:7b,Q15,2-hop_author_setting,2,eval_results_act_only_qwen25_20260706_050120.json
+A1089,Planned,llama3.1:8b,Q84,2-hop_collectiontype_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A1090,Vector-Gated v2,qwen2.5:7b,Q59,2-hop_vibe_setting,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A1091,Pure ReAct,qwen2.5:7b,Q82,2-hop_collectiontype_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A1092,Pure ReAct,qwen2.5:7b,Q89,collaborative_shared_vibe,3,eval_results_pure_react_qwen25_20260706_050120.json
+A1093,Standard RAG,qwen2.5:7b,Q31,1-hop_author,1,eval_results_standard_20260706_112205.json
+A1094,Planned,qwen2.5:7b,Q91,collaborative_shared_vibe,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1095,CoT-RAG,qwen2.5:7b,Q28,branch_filter_vibe,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A1096,CoT-RAG,qwen2.5:7b,Q14,2-hop_author_vibe,2,eval_results_cot_rag_qwen25_20260706_050120.json
+A1097,CoT-RAG,llama3.1:8b,Q25,runtime_similarity,1,eval_results_cot_rag_llama31_20260706_015432.json
+A1098,Standard RAG,llama3.1:8b,Q97,runtime_similarity,1,eval_results_standard_20260706_081128.json
+A1099,Standard RAG,qwen2.5:7b,Q87,3-hop_vibe_setting_category,3,eval_results_standard_20260706_112205.json
+A1100,Planned,llama3.1:8b,Q11,2-hop_vibe_category,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A1101,Planned,llama3.1:8b,Q44,1-hop_category,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A1102,CoT-RAG,llama3.1:8b,Q84,2-hop_collectiontype_category,2,eval_results_cot_rag_llama31_20260706_015432.json
+A1103,Planned,qwen2.5:7b,Q27,runtime_similarity,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1104,Pure ReAct,qwen2.5:7b,Q42,1-hop_setting,1,eval_results_pure_react_qwen25_20260706_050120.json
+A1105,Vector-Gated v2,llama3.1:8b,Q18,2-hop_collectiontype_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A1106,Vector-Gated v2,llama3.1:8b,Q78,2-hop_author_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A1107,Act-only,qwen2.5:7b,Q39,1-hop_setting,1,eval_results_act_only_qwen25_20260706_050120.json
+A1108,Planned,qwen2.5:7b,Q04,1-hop_category,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1109,Act-only,qwen2.5:7b,Q06,1-hop_language,1,eval_results_act_only_qwen25_20260706_050120.json
+A1110,Planned,qwen2.5:7b,Q95,runtime_similarity,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1111,Act-only,qwen2.5:7b,Q43,1-hop_category,1,eval_results_act_only_qwen25_20260706_050120.json
+A1112,CoT-RAG,llama3.1:8b,Q93,collaborative_shared_ddc,3,eval_results_cot_rag_llama31_20260706_015432.json
+A1113,Vector-Gated v2,qwen2.5:7b,Q40,1-hop_setting,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A1114,Vector-Gated v2,llama3.1:8b,Q11,2-hop_vibe_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A1115,Planned,llama3.1:8b,Q23,collaborative_shared_vibe,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A1116,Act-only,llama3.1:8b,Q36,1-hop_vibe,1,eval_results_act_only_llama31_20260706_015432.json
+A1117,Pure ReAct,llama3.1:8b,Q45,1-hop_category,1,eval_results_pure_react_llama31_20260706_015432.json
+A1118,Act-only,llama3.1:8b,Q33,1-hop_author,1,eval_results_act_only_llama31_20260706_015432.json
+A1119,Standard RAG,qwen2.5:7b,Q36,1-hop_vibe,1,eval_results_standard_20260706_112205.json
+A1120,Act-only,qwen2.5:7b,Q49,1-hop_ddc,1,eval_results_act_only_qwen25_20260706_050120.json
+A1121,Vector-Gated v2,llama3.1:8b,Q22,collaborative_shared_vibe,3,eval_results_agentic_llama_20260707_144026_noaudit.json
+A1122,Pure ReAct,llama3.1:8b,Q47,1-hop_ddc,1,eval_results_pure_react_llama31_20260706_015432.json
+A1123,Planned,qwen2.5:7b,Q90,collaborative_shared_vibe,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1124,Act-only,llama3.1:8b,Q70,2-hop_author_vibe,2,eval_results_act_only_llama31_20260706_015432.json
+A1125,Standard RAG,qwen2.5:7b,Q15,2-hop_author_setting,2,eval_results_standard_20260706_112205.json
+A1126,Pure ReAct,llama3.1:8b,Q65,2-hop_vibe_category,2,eval_results_pure_react_llama31_20260706_015432.json
+A1127,Act-only,llama3.1:8b,Q50,1-hop_ddc,1,eval_results_act_only_llama31_20260706_015432.json
+A1128,Act-only,qwen2.5:7b,Q53,1-hop_character,1,eval_results_act_only_qwen25_20260706_050120.json
+A1129,Pure ReAct,qwen2.5:7b,Q78,2-hop_author_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A1130,Vector-Gated v2,qwen2.5:7b,Q47,1-hop_ddc,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A1131,CoT-RAG,qwen2.5:7b,Q35,1-hop_vibe,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A1132,Planned,qwen2.5:7b,Q97,runtime_similarity,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1133,Planned,llama3.1:8b,Q94,collaborative_shared_ddc,3,eval_results_planned_llama31_20260707_154549_noaudit.json
+A1134,CoT-RAG,qwen2.5:7b,Q51,1-hop_language,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A1135,Standard RAG,qwen2.5:7b,Q47,1-hop_ddc,1,eval_results_standard_20260706_112205.json
+A1136,Act-only,qwen2.5:7b,Q47,1-hop_ddc,1,eval_results_act_only_qwen25_20260706_050120.json
+A1137,Act-only,llama3.1:8b,Q30,branch_filter_vibe,2,eval_results_act_only_llama31_20260706_015432.json
+A1138,Pure ReAct,qwen2.5:7b,Q28,branch_filter_vibe,2,eval_results_pure_react_qwen25_20260706_050120.json
+A1139,Pure ReAct,qwen2.5:7b,Q59,2-hop_vibe_setting,2,eval_results_pure_react_qwen25_20260706_050120.json
+A1140,CoT-RAG,qwen2.5:7b,Q34,1-hop_author,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A1141,Pure ReAct,qwen2.5:7b,Q48,1-hop_ddc,1,eval_results_pure_react_qwen25_20260706_050120.json
+A1142,Vector-Gated v2,qwen2.5:7b,Q29,branch_filter_author,2,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A1143,Planned,qwen2.5:7b,Q72,2-hop_author_vibe,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1144,Planned,qwen2.5:7b,Q66,2-hop_vibe_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1145,CoT-RAG,llama3.1:8b,Q07,1-hop_character,1,eval_results_cot_rag_llama31_20260706_015432.json
+A1146,Planned,qwen2.5:7b,Q86,3-hop_vibe_setting_category,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1147,Standard RAG,qwen2.5:7b,Q64,2-hop_vibe_category,2,eval_results_standard_20260706_112205.json
+A1148,Act-only,qwen2.5:7b,Q93,collaborative_shared_ddc,3,eval_results_act_only_qwen25_20260706_050120.json
+A1149,Act-only,llama3.1:8b,Q67,2-hop_setting_category,2,eval_results_act_only_llama31_20260706_015432.json
+A1150,Standard RAG,llama3.1:8b,Q94,collaborative_shared_ddc,3,eval_results_standard_20260706_081128.json
+A1151,Standard RAG,qwen2.5:7b,Q43,1-hop_category,1,eval_results_standard_20260706_112205.json
+A1152,CoT-RAG,qwen2.5:7b,Q94,collaborative_shared_ddc,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A1153,Pure ReAct,qwen2.5:7b,Q41,1-hop_setting,1,eval_results_pure_react_qwen25_20260706_050120.json
+A1154,Pure ReAct,llama3.1:8b,Q01,1-hop_author,1,eval_results_pure_react_llama31_20260706_015432.json
+A1155,Planned,qwen2.5:7b,Q31,1-hop_author,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1156,Standard RAG,qwen2.5:7b,Q62,2-hop_vibe_setting,2,eval_results_standard_20260706_112205.json
+A1157,Pure ReAct,qwen2.5:7b,Q76,2-hop_author_category,2,eval_results_pure_react_qwen25_20260706_050120.json
+A1158,CoT-RAG,llama3.1:8b,Q56,1-hop_publisher_city,1,eval_results_cot_rag_llama31_20260706_015432.json
+A1159,Planned,llama3.1:8b,Q99,branch_filter_vibe,2,eval_results_planned_llama31_20260707_154549_noaudit.json
+A1160,Vector-Gated v2,qwen2.5:7b,Q41,1-hop_setting,1,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A1161,Standard RAG,llama3.1:8b,Q89,collaborative_shared_vibe,3,eval_results_standard_20260706_081128.json
+A1162,Act-only,qwen2.5:7b,Q42,1-hop_setting,1,eval_results_act_only_qwen25_20260706_050120.json
+A1163,Pure ReAct,qwen2.5:7b,Q05,1-hop_ddc,1,eval_results_pure_react_qwen25_20260706_050120.json
+A1164,Pure ReAct,qwen2.5:7b,Q36,1-hop_vibe,1,eval_results_pure_react_qwen25_20260706_050120.json
+A1165,Standard RAG,qwen2.5:7b,Q99,branch_filter_vibe,2,eval_results_standard_20260706_112205.json
+A1166,Pure ReAct,qwen2.5:7b,Q79,2-hop_ddc_branch,2,eval_results_pure_react_qwen25_20260706_050120.json
+A1167,Standard RAG,qwen2.5:7b,Q90,collaborative_shared_vibe,3,eval_results_standard_20260706_112205.json
+A1168,Planned,qwen2.5:7b,Q94,collaborative_shared_ddc,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1169,Pure ReAct,llama3.1:8b,Q90,collaborative_shared_vibe,3,eval_results_pure_react_llama31_20260706_015432.json
+A1170,Act-only,llama3.1:8b,Q41,1-hop_setting,1,eval_results_act_only_llama31_20260706_015432.json
+A1171,CoT-RAG,qwen2.5:7b,Q19,3-hop_vibe_setting_category,3,eval_results_cot_rag_qwen25_20260706_050120.json
+A1172,Planned,qwen2.5:7b,Q77,2-hop_author_category,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1173,Pure ReAct,llama3.1:8b,Q97,runtime_similarity,1,eval_results_pure_react_llama31_20260706_015432.json
+A1174,Vector-Gated v2,llama3.1:8b,Q66,2-hop_vibe_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A1175,CoT-RAG,qwen2.5:7b,Q27,runtime_similarity,1,eval_results_cot_rag_qwen25_20260706_050120.json
+A1176,Standard RAG,llama3.1:8b,Q14,2-hop_author_vibe,2,eval_results_standard_20260706_081128.json
+A1177,Act-only,qwen2.5:7b,Q70,2-hop_author_vibe,2,eval_results_act_only_qwen25_20260706_050120.json
+A1178,Vector-Gated v2,qwen2.5:7b,Q20,3-hop_vibe_setting_category,3,eval_results_agentic_qwen_20260707_151426_noaudit.json
+A1179,Act-only,llama3.1:8b,Q52,1-hop_language,1,eval_results_act_only_llama31_20260706_015432.json
+A1180,Vector-Gated v2,llama3.1:8b,Q60,2-hop_vibe_setting,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A1181,Planned,qwen2.5:7b,Q93,collaborative_shared_ddc,3,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1182,Act-only,llama3.1:8b,Q08,1-hop_publisher_city,1,eval_results_act_only_llama31_20260706_015432.json
+A1183,Planned,qwen2.5:7b,Q50,1-hop_ddc,1,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1184,Standard RAG,llama3.1:8b,Q55,1-hop_character,1,eval_results_standard_20260706_081128.json
+A1185,Planned,llama3.1:8b,Q35,1-hop_vibe,1,eval_results_planned_llama31_20260707_154549_noaudit.json
+A1186,Act-only,llama3.1:8b,Q77,2-hop_author_category,2,eval_results_act_only_llama31_20260706_015432.json
+A1187,Act-only,llama3.1:8b,Q48,1-hop_ddc,1,eval_results_act_only_llama31_20260706_015432.json
+A1188,Standard RAG,qwen2.5:7b,Q92,collaborative_shared_ddc,3,eval_results_standard_20260706_112205.json
+A1189,Standard RAG,llama3.1:8b,Q62,2-hop_vibe_setting,2,eval_results_standard_20260706_081128.json
+A1190,Standard RAG,llama3.1:8b,Q66,2-hop_vibe_category,2,eval_results_standard_20260706_081128.json
+A1191,Vector-Gated v2,llama3.1:8b,Q65,2-hop_vibe_category,2,eval_results_agentic_llama_20260707_144026_noaudit.json
+A1192,Standard RAG,qwen2.5:7b,Q79,2-hop_ddc_branch,2,eval_results_standard_20260706_112205.json
+A1193,Planned,qwen2.5:7b,Q17,2-hop_ddc_branch,2,eval_results_planned_qwen25_20260707_160812_noaudit.json
+A1194,CoT-RAG,llama3.1:8b,Q10,2-hop_vibe_setting,2,eval_results_cot_rag_llama31_20260706_015432.json
+A1195,CoT-RAG,llama3.1:8b,Q86,3-hop_vibe_setting_category,3,eval_results_cot_rag_llama31_20260706_015432.json
+A1196,Act-only,llama3.1:8b,Q58,1-hop_publisher_city,1,eval_results_act_only_llama31_20260706_015432.json
+A1197,Act-only,qwen2.5:7b,Q02,1-hop_vibe,1,eval_results_act_only_qwen25_20260706_050120.json
+A1198,Act-only,qwen2.5:7b,Q64,2-hop_vibe_category,2,eval_results_act_only_qwen25_20260706_050120.json
+A1199,Standard RAG,llama3.1:8b,Q52,1-hop_language,1,eval_results_standard_20260706_081128.json
+A1200,CoT-RAG,llama3.1:8b,Q29,branch_filter_author,2,eval_results_cot_rag_llama31_20260706_015432.json

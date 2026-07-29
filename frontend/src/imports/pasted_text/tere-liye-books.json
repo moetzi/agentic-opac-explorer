@@ -1,0 +1,275 @@
+{
+      "id": "Q01",
+      "query": "Rekomendasikan buku karya Tere Liye yang tersedia di perpustakaan Jakarta",
+      "query_type": "1-hop_author",
+      "hop_count": 1,
+      "elapsed_seconds": 59.01,
+      "error": null,
+      "answer": "Halo pengunjung! Saya senang membantu Anda mencari buku karya Tere Liye di perpustakaan Jakarta. Berdasarkan data yang tersedia, ada beberapa pilihan buku yang menarik dari penulis ini.\n\nSaya merekomendasikan \"Komet\" oleh Tere Liye, sebuah buku dengan vibe petualangan, persahabatan, dan misteri. Buku ini memiliki latar belakang yang unik, yaitu dunia paralel. Anda bisa menemukan \"Komet\" di Perpustakaan Jakarta - PDS HB Jassin dan Perpustakaan Jakarta - Cikini.\n\nSelain itu, saya juga merekomendasikan \"Si Anak Kuat\" oleh Tere Liye dan Ahmad Rivai. Buku ini memiliki vibe romance dan inspiratif dengan latar pedesaan. Anda bisa menemukan \"Si Anak Kuat\" di Perpustakaan Jakarta Pusat - Petojo Enclek, Perpustakaan Jakarta - Cikini, dan Perpustakaan Jakarta - PDS HB Jassin.\n\nJika Anda ingin mencari buku lain dari Tere Liye, saya juga merekomendasikan \"Negeri Para Bedebah\" yang memiliki vibe yang tidak tercantum di data. Buku ini tersedia di Perpustakaan Jakarta - Kuningan dan Perpustakaan Jakarta - Cikini.\n\nSemoga rekomendasi saya membantu Anda menemukan buku yang sesuai dengan minat Anda!",
+      "contexts": [
+        "Judul: Negeri Para Bedebah | Penulis: Tere Liye | Tersedia di: Perpustakaan Jakarta - Kuningan, Perpustakaan Jakarta - Cikini",
+        "Judul: Dia Adalah Kakakku | Penulis: Tere Liye, Andriyati | Vibe: biografi, keluarga | Latar: kota, desa | Tersedia di: Perpustakaan Jakarta Pusat - Petojo Enclek, Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta - PDS HB Jassin, Perpustakaan Jakarta Barat - Tanjung Duren | Sinopsis: Buat apa kamu memikirkan apa yang dipikirkan orang lain? Buat apa kamu mencemaskan apa yang akan dinilai orang lain? Kekhawatiran, juga kecemasan yang sejatinya mungkin tidak pernah ada.”\r\nDulu, sekarang, hingga kapan pun, dia adalah kakakku.\r\nTentang seorang kakak yang mengorbankan apa pun agar adik-adiknya bisa sekolah. Tentang rasa sabar dan penerimaan. Tentang keluarga yang penuh perjuangan.",
+        "Judul: Pulang | Penulis: Tere Liye, Triana Rahmawati | Vibe: biografi, kehidupan nyata | Latar: rimba hutan Sumatera, Bukit Barisan | Tersedia di: Perpustakaan Jakarta Selatan - Gandaria Tengah, Perpustakaan Jakarta Barat - Tanjung Duren, Perpustakaan Jakarta - PDS HB Jassin, Perpustakaan Jakarta Pusat - Petojo Enclek, Perpustakaan Jakarta - Cikini | Sinopsis: Pulang kali ini berkisah tentang seorang anak talang di rimba hutan Sumatera, di antara rimbunnya Bukit Barisan, yang dipanggil si Bujang. Sekilas kita mahfum bahwa Bujang hanyalah nama panggilan, seperti nama Entong di Betawi, dan bukan nama yang sebenarnya. Ia dititipkan pada seorang tauke—yang dari sebutannya tentu kita bisa menduga dari suku apa si tauke berasal. Maka dari seorang anak yang tidak memiliki alas kaki, kemudian si Bujang tumbuh menjadi seorang yang cerdas luar biasa dan menyelesaikan gelar dua master sekaligus. Padahal sampai usia 15 tahun ia tak mencecap bangku sekolah sedikit pun. Hanya Mamak, ibunya, yang menjadi gurunya sehari-hari serta mengisahkan banyak hal, termasuk ilmu agama.",
+        "Judul: Komet | Penulis: Tere Liye | Vibe: petualangan, persahabatan, misteri | Latar: Bumi, dunia paralel | Tersedia di: Perpustakaan Jakarta - PDS HB Jassin, Perpustakaan Jakarta - Cikini | Sinopsis: Setelah “musuh besar” kami lolos, dunia paralel dalam situasi genting. Hanya soal waktu, pertempuran besar akan terjadi. Bagaimana jika ribuan petarung yang bisa menghilang, mengeluarkan petir, termasuk teknologi maju lainnya muncul di permukaan Bumi? Tidak ada yang bisa membayangkan kekacauan yang akan terjadi. Situasi menjadi lebih rumit lagi saat Ali, pada detik terakhir, melompat ke portal menuju Klan Komet. Kami bertiga tersesat di klan asing untuk mencari pusaka paling hebat di dunia paralel. Buku ini berkisah tentang petualangan tiga sahabat. Raib bisa menghilang. Seli bisa mengeluarkan petir. Dan Ali bisa melakukan apa saja. Buku ini juga berkisah tentang persahabatan yang mengharukan, pengorbanan yang tulus, keberanian, dan selalu berbuat baik. Karena sejatinya, itulah kekuatan terbesar di dunia paralel.",
+        "Judul: Si Anak Kuat | Penulis: Tere Liye, Ahmad Rivai | Vibe: romance, inspiratif | Latar: pedesaan | Tersedia di: Perpustakaan Jakarta Pusat - Petojo Enclek, Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta - PDS HB Jassin, Perpustakaan Jakarta Barat - Tanjung Duren | Sinopsis: Buku ini tentang Amelia, kisah anak yang memiliki mimpi-mimpi hebat untuk kampung tercintanya.\r\n\r\n\r\nDari puluhan buku Tere Liye, serial buku ini adalah mahkotanya.",
+        "Judul: Negeri Di Ujung Tanduk | Penulis: Tere Liye | Tersedia di: Perpustakaan Jakarta - Kuningan, Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Pusat - Petojo Enclek",
+        "Judul: Rindu | Penulis: Tere Liye, Andriyati | Tersedia di: Perpustakaan Jakarta Selatan - Gandaria Tengah, Perpustakaan Jakarta Barat - Tanjung Duren, Perpustakaan Jakarta Pusat - Petojo Enclek, Perpustakaan Jakarta - Cikini",
+        "Judul: Hafalan Shalat Delisa | Penulis: Tere Liye | Tersedia di: Perpustakaan Jakarta - PDS HB Jassin, Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Barat - Tanjung Duren, Perpustakaan Jakarta Selatan - Gandaria Tengah"
+      ],
+      "curated_titles": [
+        "Negeri Para Bedebah",
+        "Dia Adalah Kakakku",
+        "Pulang",
+        "Komet",
+        "Si Anak Kuat",
+        "Negeri Di Ujung Tanduk",
+        "Rindu",
+        "Hafalan Shalat Delisa"
+      ],
+      "precision_at_3": 1.0,
+      "precision_at_5": 1.0,
+      "answer_contains_score": 1.0,
+      "tool_set_match": 1.0,
+      "tools_used": [
+        "unknown",
+        "books_by_author",
+        "books_by_author",
+        "books_by_author"
+      ],
+      "destructive_filter_calls": 0,
+      "reference_answer": "Tere Liye adalah penulis Indonesia dengan 23 judul dalam koleksi ini, di antaranya: #About Love (book_103226), #AboutFriends (book_103427), Berjuta Rasanya (book_103840).",
+      "token_usage": {
+        "input_tokens": 11261,
+        "output_tokens": 685,
+        "total_tokens": 11946
+      }
+    },
+    {
+      "id": "Q02",
+      "query": "Carikan buku dengan nuansa thriller yang mendebarkan",
+      "query_type": "1-hop_vibe",
+      "hop_count": 1,
+      "elapsed_seconds": 22.97,
+      "error": null,
+      "answer": "Halo pengunjung! Saya senang membantu Anda mencari buku thriller mendebarkan di perpustakaan kami.\n\nSetelah memeriksa koleksi kami, saya menemukan bahwa \"Persimpangan\" oleh Hasan Aspahani memiliki nuansa thriller yang mendebarkan. Buku ini termasuk dalam kategori Novel dan tersedia di beberapa cabang perpustakaan kami, yaitu Perpustakaan Jakarta - PDS HB Jassin, Perpustakaan Jakarta Pusat - Petojo Enclek, Perpustakaan Jakarta - Kuningan, dan Perpustakaan Jakarta Timur - Jatinegara.\n\nJika Anda tertarik membaca \"Persimpangan\", saya sarankan untuk mengunjungi salah satu cabang perpustakaan kami yang tersedia. Saya yakin Anda akan menemukan buku ini di rak-rak kami!",
+      "contexts": [
+        "Judul: Persimpangan | Penulis: Hasan Aspahani | Kategori: Novel | Tersedia di: Perpustakaan Jakarta - PDS HB Jassin, Perpustakaan Jakarta Pusat - Petojo Enclek, Perpustakaan Jakarta - Kuningan, Perpustakaan Jakarta Timur - Jatinegara"
+      ],
+      "curated_titles": [
+        "Persimpangan"
+      ],
+      "precision_at_3": 0.0,
+      "precision_at_5": 0.0,
+      "answer_contains_score": 1.0,
+      "tool_set_match": 1.0,
+      "tools_used": [
+        "vector_search",
+        "books_by_vibe",
+        "books_by_vibe"
+      ],
+      "destructive_filter_calls": 0,
+      "reference_answer": "Ada 97 buku bernuansa thriller dalam koleksi, contohnya: 7 Malam Pertama Di Alam Kubur (book_104934), Adrift (book_103410), Alcatraz Versus The Evil Librarian :  Buku Lima The Dark Talent (book_103769).",
+      "token_usage": {
+        "input_tokens": 9882,
+        "output_tokens": 424,
+        "total_tokens": 10306
+      }
+    },
+    {
+      "id": "Q03",
+      "query": "Aku ingin baca novel yang berlatar kerajaan",
+      "query_type": "1-hop_setting",
+      "hop_count": 1,
+      "elapsed_seconds": 23.72,
+      "error": null,
+      "answer": "Halo pengunjung! Kami senang membantu kamu mencari novel berlatar kerajaan. Berdasarkan ketersediaan buku di perpustakaan kami, ada beberapa pilihan yang menarik untuk kamu.\n\nKamu bisa memilih \"Recollection : Ther Melian\" oleh Shienny dan Grace Situngkir, yang memiliki vibe thriller, romance, dan misteri. Buku ini tersedia di Perpustakaan Jakarta - Cikini. Atau, jika kamu ingin novel dengan latar kerajaan dan sejarah, \"Laksamana Malahayati : Sang Perempuan Keumala\" oleh A. Ariobimo Nusantara dan Endang Moerdopo bisa menjadi pilihan yang tepat. Buku ini tersedia di beberapa lokasi perpustakaan, termasuk Perpustakaan Jakarta - Cikini.\n\nKedua buku ini memiliki latar kerajaan sebagai salah satu elemen utama cerita. Kami harap kamu menemukan novel yang sesuai dengan selera bacaanmu!",
+      "contexts": [
+        "Judul: Recollection :  Ther Melian | Penulis: Shienny, Grace Situngkir | Vibe: thriller, romance, misteri | Latar: kerajaan, perkotaan, pedesaan | Tersedia di: Perpustakaan Jakarta - Cikini | Sinopsis: \"Saat berburu, Elya menemukan seorang pemuda yang sekarat di antara jasad prajurit Falthemnar dan membawanya pulang untuk dirawat. Karena pria itu tidak mengingat jati dirinya, maka dia diberi nama Lucca, yang artinya Anak Hilang.Sementara itu, pembunuh misterius sedang berkeliaran di Dominia dan mengancam jalannya Festival Musim Kemarau. Keadaan semakin pelik dan berbahaya. Elya berpacu dengan waktu untuk mengembalikan ingatan Lucca, sebab keselamatan semua orang di Dominia bergantung pasa misi yang tidak bisa diingat pemuda itu.Ketika satu per satu potongan ingatan Lucca mulai kembali, Elya menyadari sesuatu: ia tidak hanya mengembalikan masa lalu Lucca, tapi dia juga berhasil mengingkap sejarah kelam bangsa Elvar, aib di era Perang Besar yang terjadi lebih dari lima belas abad yang lalu.\"",
+        "Judul: Elang Menoreh :  Perjalanan Purwa Kala | Penulis: A. Mellyora, Wiwien Wintarto | Vibe: thriller, misteri, petualangan | Latar: kerajaan, pedesaan, perkotaan | Tersedia di: Perpustakaan Jakarta Barat - Tanjung Duren, Perpustakaan Jakarta - Cikini | Sinopsis: Usai menamatkan ajaran ilmu bela diri di Padepokan Menoreh, Nara ditugaskan Empu Soca untuk membantu mengawal Demang Begelen Ki Martawuni dari ancaman gembong perampok Bango Lampar. Di luar dugaan misi pengawalan itu menjadi tugas yang tidak mudah untuk dilakukan. Terbunuhnya kepala pengawal kademangan, segera menghadapkan bocah itu pada intrik berdarah tingkat tinggi yang dahsyat meneror keselamatan jiwa.Nara pun harus berurusan dengan penguasa Mataram, pemilik ilmu tanding yang mumpuni dan tak terbantahkan, Senopati ing Alaga, dan sang putra, Raden Rangga. Tak hanya itu, ia juga bertemu dengan sosok nan elok rupawan dalam busana serbahijau dari kawasan jauh di selatan. Nara pun terseret dalam pusaran konflik antara Mataram dan para adipati Bang Wetan atas takhta Pajang yang akan segera ditinggalkan Sultan Hadiwijaya. Dan, perang mahadahsyat dapat meletus dalam waktu yang tak mampu diramal.Di tengah semua pertentangan itu, dunia persilatan diguncang dengan perebutan harta karun berjuluk Gelang Mas. Tak ada yang tahu apa persisnya harta itu. Konon, siapa pun sang pemilik akan menguasai Tanah Jawa hingga ratusan tahun kemudian. Dalam pergulatan yang melibatkan takhta, harta, dan wanita, Nara menjumpai kenyataan bahwa nyawa dapat menjadi sebegitu tak berharga ….",
+        "Judul: Pasangan Traveling | Penulis: Winny Gunarti, Pasangantraveling.Com | Vibe: petualangan, romance | Latar: kerajaan, perkotaan, gunung, pedesaan, desa, pantai | Tersedia di: Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Selatan - Gandaria Tengah | Sinopsis: Ada 22 destinasi di buku ini yang bisa Anda jadikan inspirasi untuk perjalanan Anda berikutnya. Anda akan diajak menikmati keheningan yang romantis di Kampung Sampireun, Garut, berjemur berdua di pantai–pantai Lombok yang menawan, dan melewatkan malam di kereta dari Paris ke Venesia. Bermain salju di Swiss dan merasakan padang gurun Pinnacles di Australia Barat. Mengenang masa kecil ala Laskar Pelangi di Belitung dan romansa Sound of Music di Salzburg, Austria. Hanya dengan pasangan Anda bisa puas menikmati semarak tulip di Keukenhof Belanda, bersantai di water villa Maladewa, dan merasakan Love Hotel di Jepang",
+        "Judul: Princess Academy Opera Dongeng : Putri Sabari Putri Pemberani | Penulis: Oyasujiwo, Kumatyo | Vibe: misteri, romance | Latar: kerajaan, pedesaan | Tersedia di: Perpustakaan Jakarta - Cikini | Sinopsis: Para putri Princess Academy kembali mementaskan Opera Dongeng. Kali ini, cerita yang diangkat berasal dari Sumatera Barat. Rosmalina menjadi peran utama. Ia akan berperan sebagai Putri Sabai nan Aluih. Sabai nan Aluih adalah sosok putri pemberani yang melawan ketidakadilan.",
+        "Judul: Laksamana Malahayati :  Sang Perempuan Keumala | Penulis: A. Ariobimo Nusantara, Endang Moerdopo | Vibe: romance, sejarah | Latar: Aceh, kerajaan | Tersedia di: Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Timur - Jatinegara, Perpustakaan Jakarta - PDS HB Jassin | Sinopsis: “…ternyata ada kekuatan luar biasa terpancar dari buku ini. Seakan-akan penulisnya mendapat spirit lintas masa sehingga dapar menggambar dengan kuat Keumalahayati sang Laksamana dan masanya. Buku ini sangat penting dibaca!!!!”Munawar Liza Zainal, Walikota Sabang“Novel “Cut” Endang Mordopo ini memukau, justru karena tidak sekadar silau pada masa lampau, melainkan dengan elok dan empati yang menyentuh perempuan pahlawan Aceh secara utuh.”Arswendo Atmowiloto, Budayawan",
+        "Judul: Princess Academy Opera Dongeng : Kanaya Putri Pantang Menyerah | Penulis: Oyasujiwo, Kumatyo | Vibe: misteri, romance | Latar: kerajaan, pedesaan | Tersedia di: Perpustakaan Jakarta Pusat - Petojo Enclek, Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Selatan - Gandaria Tengah | Sinopsis: Opera Dongeng Princess Academy kembali dipentaskan. Odelia yang jadi peran utamanya. Kali ini, kisah yang diangkat berasal dari Sulawesi Tenggara, yaitu Kanaya. Ia adalah sosok putri yang rajin dan pantang menyerah.",
+        "Judul: Kumpulan Cerita Asli Indonesia Vol.2 | Penulis: Tim Elex, Maria Wuri Anjani, Yunianto | Vibe: legenda, misteri | Latar: kerajaan, pedesaan | Tersedia di: Perpustakaan Jakarta - Cikini | Sinopsis: Buku Cerita asli Indonesia dalam bentuk dongeng dan legenda yang sudah ada di masyarakat Indonesia sejak zaman dahulu. Umumnya, cerita yang berisikan keteladanan, budi pekerti, semangat kepahlawanan, kejujuran, dan kesabaran ini disampaikan secara turun - temurun dan dari mulut ke mulut",
+        "Judul: Cerita Asli Nusantara | Penulis: Asteria Renny, Faza | Vibe: misteri, sejarah | Latar: kerajaan, nusantara | Tersedia di: Perpustakaan Jakarta Barat - Tanjung Duren, Perpustakaan Jakarta Pusat - Petojo Enclek, Perpustakaan Jakarta - Kuningan, Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Selatan - Gandaria Tengah | Sinopsis: Nusantara kita yang tercinta menyimpan begitu banyak kisah dan cerita yang telah diceritakan secara turun temurun oleh para leluhur. Cerita itu merupakan warisan yang perlu kita jaga karena cerita nusantara ini juga merupakan warisan budaya yang memuat pe"
+      ],
+      "curated_titles": [
+        "Recollection :  Ther Melian",
+        "Elang Menoreh :  Perjalanan Purwa Kala",
+        "Pasangan Traveling",
+        "Princess Academy Opera Dongeng : Putri Sabari Putri Pemberani",
+        "Laksamana Malahayati :  Sang Perempuan Keumala",
+        "Princess Academy Opera Dongeng : Kanaya Putri Pantang Menyerah",
+        "Kumpulan Cerita Asli Indonesia Vol.2",
+        "Cerita Asli Nusantara"
+      ],
+      "precision_at_3": 1.0,
+      "precision_at_5": 1.0,
+      "answer_contains_score": 1.0,
+      "tool_set_match": 1.0,
+      "tools_used": [
+        "books_by_setting",
+        "books_by_setting_and_category",
+        "books_by_setting_and_category",
+        "books_by_setting_and_category"
+      ],
+      "destructive_filter_calls": 0,
+      "reference_answer": "Ditemukan 97 buku berlatar kerajaan, contohnya: 101 Dongeng Sebelum Tidur :  80 Dongeng Nusantara Dan 21 Dongeng Dunia (book_100086), 24 Purnama Di Negeri Ginseng (book_106980), 3D Modeling Kreatif Dengan Autocad (book_102558).",
+      "token_usage": {
+        "input_tokens": 10624,
+        "output_tokens": 453,
+        "total_tokens": 11077
+      }
+    },
+    {
+      "id": "Q04",
+      "query": "Rekomendasikan buku kategori Cerita Anak untuk anak saya",
+      "query_type": "1-hop_category",
+      "hop_count": 1,
+      "elapsed_seconds": 22.29,
+      "error": null,
+      "answer": "Halo pengunjung! Saya senang membantu Anda mencari buku Cerita Anak untuk anak Anda.\n\nSetelah memeriksa koleksi kami, saya merekomendasikan beberapa pilihan yang menarik. Pertama, ada \"Kecil-kecil Punya Karya : Magic Cookies\" oleh Yuni Mulyawati, Muthia Fadhila Khairunnisa, dan Ridwan Fauzy. Buku ini tersedia di Perpustakaan Jakarta - Cikini dan Perpustakaan Jakarta Pusat - Petojo Enclek.\n\nKedua, saya juga merekomendasikan \"Kumpulan Dongeng Bijak Dari Asia Timur\" oleh Diba dan Wiwid. Buku ini memiliki vibe moral dan pendidikan yang sangat cocok untuk anak-anak. Anda bisa menemukan buku ini di beberapa lokasi, termasuk Perpustakaan Jakarta Barat - Tanjung Duren dan Perpustakaan Jakarta - Cikini.\n\nJika Anda ingin mencari sesuatu yang lebih unik, saya juga merekomendasikan \"Kumpulan Cerita : Kurcaci Dan Peri\" oleh Asteria Renny. Buku ini memiliki vibe misteri dan petualangan yang menarik, dengan latar belakang dunia imajinatif dan hutan desa. Anda bisa menemukan buku ini di Perpustakaan Jakarta Timur - Jatinegara dan Perpustakaan Jakarta Selatan - Gandaria Tengah.\n\nSemoga rekomendasi saya membantu!",
+      "contexts": [
+        "Judul: Kecil-kecil Punya Karya : Magic Cookies | Penulis: Yuni Mulyawati, Muthia Fadhila Khairunnisa, Ridwan Fauzy | Tersedia di: Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Pusat - Petojo Enclek",
+        "Judul: Kumpulan Cerita Pahlawan Super | Penulis: Dhita Kurniawan | Vibe: superhero, aksi, petualangan | Tersedia di: Perpustakaan Jakarta Selatan - Gandaria Tengah, Perpustakaan Jakarta Barat - Tanjung Duren, Perpustakaan Jakarta - Cikini | Sinopsis: “Buku ini bercerita tentang aksi para pahlawan super yang gagah berani. Mereka menumpas kejahatan dengan semangat. Para pahlawan super tersebut layak diteladani karena selalu menolong tanpa pamrih, penuh tanggung jawab, sopan, dan pastinya selalu berbuat baik untuk sesama.  Menjadi pahlawan tidak harus dengan cara bertempur melawan musuh. Dengan membaca kumpulan cerita para pahlawan super dalam buku ini, lalu mengikuti teladannya, kalian pun dapat menjadi pahlawan dalam kehidupan sehari-hari. Ada juga aktivitas seru yang dapat kalian kerjakan, lho.”",
+        "Judul: Kumpulan Dongeng Bijak Dari Asia Timur | Penulis: Diba, Wiwid | Vibe: moral, pendidikan | Tersedia di: Perpustakaan Jakarta Barat - Tanjung Duren, Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Pusat - Petojo Enclek, Perpustakaan Jakarta Selatan - Gandaria Tengah, Perpustakaan Jakarta Utara - Koja | Sinopsis: Dongeng adalah bacaan yang bagus untuk perkembangan kecerdasan anak. Banyak sekali pengetahuan budaya dalam dongeng-dongeng ini. Ada dongeng Batu Ajaib, Rahasia Pulau Dok, Kipas Merah dan Kipas Biru, Putri Bari, dan lain-lain. Setiap dongeng dilengkapi ilustrasi menarik dan penuh warna sehingga anak-anak akan lebih senang membacanya. Semoga buku ini bisa mencerdaskan anak bangsa, ya.",
+        "Judul: Kumpulan Cerita : Kurcaci Dan Peri | Penulis: Asteria Renny | Vibe: misteri, anak-anak, petualangan | Latar: dunia imajinatif, hutan, desa | Tersedia di: Perpustakaan Jakarta Timur - Jatinegara, Perpustakaan Jakarta Selatan - Gandaria Tengah | Sinopsis: Kurcaci dan peri hidup dalam dunia yang berbeda. Tapi, di dalam buku ini mereka bisa hidup berdampingan. Memang kadang mereka berselisih paham, tapi akhirnya mereka kembali bersahabat. Mau tahu kisah-kisah mereka yang lucu, aneh, menyenangkan, menyedihkan? Yuk, kita baca sama-sama! Ada 15 dongeng kurcaci dan peri di sini yang akan menghiburmu dengan ilustrasi yang cerah dan menyenangkan."
+      ],
+      "curated_titles": [
+        "Kecil-kecil Punya Karya : Magic Cookies",
+        "Kumpulan Cerita Pahlawan Super",
+        "Kumpulan Dongeng Bijak Dari Asia Timur",
+        "Kumpulan Cerita : Kurcaci Dan Peri"
+      ],
+      "precision_at_3": 1.0,
+      "precision_at_5": 0.8,
+      "answer_contains_score": 1.0,
+      "tool_set_match": 1.0,
+      "tools_used": [
+        "books_by_category"
+      ],
+      "destructive_filter_calls": 0,
+      "reference_answer": "Tersedia 156 buku kategori Cerita Anak, contohnya: 25 Kisah Hewan Bersama Para Nabi (book_103076), 40 Cerita Indah Dan Doa Sehari-hari (book_105937), 50 Cerita Pengantar Tidur (book_107126).",
+      "token_usage": {
+        "input_tokens": 5342,
+        "output_tokens": 507,
+        "total_tokens": 5849
+      }
+    },
+    {
+      "id": "Q05",
+      "query": "Ada buku dengan klasifikasi DDC 641 soal kuliner dan masakan?",
+      "query_type": "1-hop_ddc",
+      "hop_count": 1,
+      "elapsed_seconds": 22.81,
+      "error": null,
+      "answer": "Halo pengunjung! Saya senang membantu Anda mencari buku tentang kuliner dan masakan dengan klasifikasi DDC 641.\n\nSetelah memeriksa koleksi kami, saya menemukan beberapa pilihan yang mungkin menarik bagi Anda. Pertama, ada \"Homemade Snacks & Desserts Ala Xanders's Kitchen\" oleh Junita dan Intarina Hardiman. Buku ini berisi resep-resep kreatif untuk camilan dan dessert yang bisa dibuat di rumah. Kedua, ada juga \"60 Resep Paket Lauk Ikan Dan Sambal\" oleh Edward dan Ratu Afifah, yang menawarkan variasi resep masakan laut yang lezat.\n\nKedua buku ini tersedia di Perpustakaan Jakarta - Cikini. Jika Anda ingin mencari lebih banyak pilihan, saya juga bisa merekomendasikan \"Jakarta Street Food\" oleh Intarina Hardiman, yang berisi tentang kuliner khas Jakarta. Buku ini juga tersedia di Perpustakaan Jakarta - Cikini.\n\nSemoga informasi ini membantu! Jika Anda memiliki pertanyaan lebih lanjut atau ingin mencari buku lain, jangan ragu untuk bertanya.",
+      "contexts": [
+        "Judul: Homemade Snacks & Desserts Ala Xanders's Kitchen :  625 K  Followers Instagram | Penulis: Junita, Intarina Hardiman | Kategori: Aneka Resep - Hidangan Campuran | Tersedia di: Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta - Kuningan | Sinopsis: Buku ini diterbitkan untuk memenuhi permintaan para follower penulis di akun Instagram @xanderskitchen yang saat ini telah mencapai 625K lebih. Buku ini berisi 135 resep pilihan snack dan dessert meliputi Cake, Kue Kering, Kue Basah Tradisional, Snack Populer, Roti, Bubur Manis, Puding, Minuman, dan Sajian Segar Buah & Sayuran.",
+        "Judul: Cookies Decorating :  50 Desain Cookies Natal | Penulis: Etha Margaretha Trezise, Irfan Kwandow | Kategori: Kue, Natal | Tersedia di: Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Selatan - Gandaria Tengah, Perpustakaan Jakarta - Kuningan | Sinopsis: Nama saya Etha Margaretha Trezise lahir di Jakarta dan besar di Makassar. Saya adalah cake, cakepop, dan cookies decorator yang autodidak. Walaupun hidup berpindah-pindah negara dan saat ini tinggal di Mozambique Afrika, saya tetap ingin berbagi keahlian dan keterampilan melalui buku ini kepada teman-teman bakers di Indonesia. Setelah menulis 4 buku sebelumnya, kali ini saya menghadirkan buku Cookies Decorating bertema Natal. Semua desain cookies yang disajikan di sini ada 50 desain cookies bertemakan Natal sangat cocok dihadirkan dalam bulan Desember karena memang diperuntukkan khusus menyambut dan merayakan Natal. 50 Desain Cookies Natal menyuguhkan tutorial secara detail dan lengkap dengan foto-foto step-by-step yang akan mempermudah pembaca untuk mempelajari dan mempraktikkan. Mencakup resep membuat cookies dan royal icing, pengenalan peralatan, teknik mendekorasi cookies, tip-tip yang bermanfaat, dan juga 50 desain cookies bertema Natal yang lucu dan menarik. Setelah mulai mendalami keahlian memanggang dan mendekorasi cake, cakepop dan cookies sekitar 4 tahun yang lalu, saya ingin berbagi pengalaman pribadi yang saya dapatkan bahwa Siapa pun mampu menciptakan hasil karya yang indah dan enak dimakan sekalipun tanpa memiliki pendidikan dari culinary school ataupun kursus-kursus, asalkan kita memiliki keinginan.",
+        "Judul: 60 Resep Kue Kering Anti Gagal | Penulis: Tim Dapur Media | Kategori: Resep, Kue | Tersedia di: Perpustakaan Jakarta - Cikini | Sinopsis: Membuat kue kering dianggap berhasil bila kue yang dihasilkan,  bentuknya bagus, rasanya enak dan rencah alias tidak keras. Adakalanya kue yang dihasilkan bentuknya bagus, namun keras. Begitu juga sebaliknya, kue yang dihasilkan sangat renyah dan enak rasanya, namun memiliki bentuk yang tidak keruan.",
+        "Judul: 50 Resep Puding Coklat Pilihan | Penulis: Iva Hardiana, Intarina Hardiman | Kategori: Masakan | Tersedia di: Perpustakaan Jakarta - Cikini | Sinopsis: Puding, disukai. Cokelat, disukai. Puding Cokelat? Paduan dahsyat! Favorit keluarga tercinta. Tak tanggung-tanggung, buku ini merangkum 50 (lima puluh) resep puding cokelat berbahan dasar agar-agar bubuk, jeli instan bubuk, dan puding susu instan bubuk, dan cokelat. Jenis cokelat yang dipakai pun variatif, mulai dari cokelat masak, cokelat bubuk, hingga cokelat pasta. Biar tak bosan, puding tampil bertumpuk/berlapis, dipadu buah-buahan atau cake. Dan tak lupa saus pelengkap puding mulai dari saus vla encer hingga saus cokelat pekat, yang menyelaraskan keseluruhan rasa dan tampilan puding cokelat favorit. Tak sekadar puding dingin (dimatangkan dengan cara direbus), puding panggang atau dikenal dengan istilah puding panas pun (dimatangkan dalam oven) bisa Anda nikmati! Ayo jelajahi dunia puding melalui buku ini!",
+        "Judul: Resep Favorit Ny. Liem Pempek | Penulis: Yudho Asmoro, Intarina Hardiman | Kategori: Pempek, Masakan | Tersedia di: Perpustakaan Jakarta Selatan - Gandaria Tengah, Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Timur - Jatinegara | Sinopsis: Ingin ikut mempraktikkan dan menikmati Pempek Favorit yang diajarkan di Kursus Masak Ny. Liem? Atau ingin memperkaya khazanah resep andalan di usaha boga Anda. Milikilah segera buku ini! Berisi lebih dari 20 resep Pempek Favorit yang diajarkan di tempat kursus tersebut, seperti Pempek Kapal Selam, Pempek Lenjer, Pempek Kulit, Pempek Keriting, dan Pempek Adaan.  Kursus Masak Ny. Liem merupakan tempat kursus masak yang sangat terkenal di kota Bandung dengan jumlah murid mencapai ribuan, tersebar di seluruh Indonesia. Resep-resep masakan yang diajarkan di kursus Ny. Liem sangat diminati para peminta dan praktisi boga, dan telah menjadi resep andalan puluhan usaha boga para alumninya.",
+        "Judul: 60 Resep Paket Lauk Ikan Dan Sambal | Penulis: Edward, Ratu Afifah | Kategori: Makanan Laut | Tersedia di: Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Utara - Koja, Perpustakaan Jakarta - Kuningan, Perpustakaan Jakarta Barat - Tanjung Duren, Perpustakaan Jakarta Pusat - Petojo Enclek",
+        "Judul: Jakarta Street Food | Penulis: Intarina Hardiman | Kategori: Makanan | Tersedia di: Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Selatan - Gandaria Tengah | Sinopsis: Gaya hidup kuliner 12 juta masyarakatnya yang sangat aktif, telah menempatkan Jakarta sebanding dengan kota-kota besar di dunia lainnya, seperti New York, Berlin, Singapura, dan Los Angeles. The vibrant culinary scene of Jakarta, home to its 12 million of inhabitants has put Jakarta on a stature similar to New York, Berlin, Singapore, and Los Angeles. Tetapi apakah yang membuat iklim kuliner di Jakarta berbeda dari kota besar lainnya? Jawabannya adalah “street food” khas Jakarta yang kaya rasa. But what makes our city’s gastronomical climate different from others? The answer lies in our myriad delectable selections of street food. Keberagaman kuliner yang tersaji di Jakarta sebagai ’melting pot’ dari banyak suku dan bangsa dunia, adalah jejak sejarah Jakarta sebagai kota pusat perdagangan terbesar dan terpenting di abad ke-16 hingga ke-18. Inilah buku pertama tentang street food di kota Jakarta yang ditulis oleh seorang chef dalam edisi dwibahasa Indonesia dan Inggris.",
+        "Judul: Resep Andalan Ny. Liem Kreasi Puding Lapis Gaya Baru | Penulis: Yudho Asmoro Intarina Hardiman | Kategori: Resep Masakan, Puding | Tersedia di: Perpustakaan Jakarta - Cikini | Sinopsis: Ingin ikut mempraktikkan dan menikmati masakan yang diajarkan di Kursus Masak Ny. Liem? Atau ingin memperkaya khazanah resep pilihan di usaha boga Anda. Milikilah segera buku ini! Berisi 33 resep Kreasi Puding Lapis Gaya Baru yang diajarkan di tempat kursus tersebut seperti Honey Green Pudding, Avocado Coffee Dessert, Blueberry Yoghurt Creme, Puding Pandan Lapis Kaca, dan puding Jambu. Kursus Masak Ny. Liem merupakan tempat kursus masak yang sangat terkenal di kota Bandung dengan jumlah murid mencapai ribuan, tersebar di seluruh Indonesia. Resep-resep masakan yang diajarkan di kursus Ny. Liem sangat diminati para pencinta dan praktisi boga, dan telah menjadi resep andalan puluhan usaha boga para aliumninya"
+      ],
+      "curated_titles": [
+        "Homemade Snacks & Desserts Ala Xanders's Kitchen :  625 K  Followers Instagram",
+        "Cookies Decorating :  50 Desain Cookies Natal",
+        "60 Resep Kue Kering Anti Gagal",
+        "50 Resep Puding Coklat Pilihan",
+        "Resep Favorit Ny. Liem Pempek",
+        "60 Resep Paket Lauk Ikan Dan Sambal",
+        "Jakarta Street Food",
+        "Resep Andalan Ny. Liem Kreasi Puding Lapis Gaya Baru"
+      ],
+      "precision_at_3": 1.0,
+      "precision_at_5": 1.0,
+      "answer_contains_score": 1.0,
+      "tool_set_match": 1.0,
+      "tools_used": [
+        "books_by_ddc",
+        "books_sharing_ddc_with",
+        "stuck"
+      ],
+      "destructive_filter_calls": 0,
+      "reference_answer": "Ada 96 buku dengan kode DDC 641 (kuliner/masakan), contohnya: 100 Kreasi Bento :  Untuk Bekal Sekolah (book_103025), 101 Kreasi Resep Tumis (book_104713), 101 Menu Sehat Bayi Dan Batita :  Memaksimalkan Pertumbuhan Dan Meningkatkan Kecerdasan Buah Hati (book_104789).",
+      "token_usage": {
+        "input_tokens": 8050,
+        "output_tokens": 445,
+        "total_tokens": 8495
+      }
+    },
+    {
+      "id": "Q06",
+      "query": "Carikan buku yang ditulis dalam bahasa Inggris",
+      "query_type": "1-hop_language",
+      "hop_count": 1,
+      "elapsed_seconds": 18.44,
+      "error": null,
+      "answer": "Halo pengunjung! Kami senang membantu Anda mencari buku dalam bahasa Inggris.\n\nDari daftar kami, ada beberapa pilihan yang mungkin sesuai dengan kebutuhan Anda. Pertama-tama, mari kita lihat \"One Fish, Two Fish, Red Fish, Blue Fish\" oleh Unknown. Buku ini termasuk kategori Bahasa Inggris - Bacaan Kanak-Kanak dan tersedia di Perpustakaan Jakarta - Cikini.\n\nSelain itu, Anda juga bisa mempertimbangkan \"Disney Magic English 24 : Mountains\" oleh Unknown. Buku ini juga dalam bahasa Inggris dan khusus untuk anak-anak, dengan tema yang menarik tentang gunung. Tersedia di Perpustakaan Jakarta - Cikini.\n\nTerakhir, ada \"Fox In Socks\" oleh Unknown yang mungkin menarik perhatian Anda. Buku ini juga dalam bahasa Inggris dan termasuk kategori Bahasa Inggris - Buku Anak-Anak. Tersedia di Perpustakaan Jakarta - Cikini.\n\nSemoga informasi ini membantu Anda menemukan buku yang tepat!",
+      "contexts": [
+        "Judul: Pandora's Box | Penulis: J. Solomon, Julia Golding | Kategori: Dongeng Anak | Tersedia di: Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Barat - Tanjung Duren",
+        "Judul: One Fish, Two Fish, Red Fish, Blue Fish | Kategori: Bahasa Inggris - Bacaan Kanak-Kanak | Tersedia di: Perpustakaan Jakarta - Cikini",
+        "Judul: Disney Magic English 24 :  Mountains | Kategori: Bahasa Inggris - Bacaan Kanak-Kanak | Tersedia di: Perpustakaan Jakarta - Cikini",
+        "Judul: Lego Nexo Knights :  Meet The Knights | Penulis: Julia March, Pamela Ann | Kategori: Komik Anak | Tersedia di: Perpustakaan Jakarta - Cikini",
+        "Judul: Fox In Socks | Kategori: Bahasa Inggris - Buku Anak-Anak | Tersedia di: Perpustakaan Jakarta - Cikini"
+      ],
+      "curated_titles": [
+        "Pandora's Box",
+        "One Fish, Two Fish, Red Fish, Blue Fish",
+        "Disney Magic English 24 :  Mountains",
+        "Lego Nexo Knights :  Meet The Knights",
+        "Fox In Socks"
+      ],
+      "precision_at_3": 1.0,
+      "precision_at_5": 1.0,
+      "answer_contains_score": 1.0,
+      "tool_set_match": 1.0,
+      "tools_used": [
+        "books_by_language"
+      ],
+      "destructive_filter_calls": 0,
+      "reference_answer": "Ada 76 buku berbahasa Inggris dalam koleksi, contohnya: A Hippo In Our Yard (book_105167), A Poem I Wrote For You (book_103108), Aladin And The Genies (book_104811).",
+      "token_usage": {
+        "input_tokens": 5230,
+        "output_tokens": 395,
+        "total_tokens": 5625
+      }
+    },
+    {
+      "id": "Q07",
+      "query": "Apakah ada buku dengan tokoh Naura?",
+      "query_type": "1-hop_character",
+      "hop_count": 1,
+      "elapsed_seconds": 21.85,
+      "error": null,
+      "answer": "Halo pengunjung! Kami senang membantu Anda mencari buku dengan tokoh Naura.\n\nSetelah memeriksa koleksi kami, kami menemukan beberapa buku yang mungkin sesuai dengan kebutuhan Anda. \"Seri Anak Hebat : Aku Mau Tidur Sendiri\" oleh Nurhadiansyah dan Teguh Affandi adalah salah satu pilihan yang menarik. Buku ini memiliki vibe keluarga dan anak-anak, serta latar rumah. Buku ini tersedia di beberapa cabang perpustakaan kami, yaitu Perpustakaan Jakarta Barat - Tanjung Duren, Perpustakaan Jakarta Pusat - Petojo Enclek, Perpustakaan Jakarta - Cikini, dan Perpustakaan Jakarta Selatan - Gandaria Tengah.\n\nSelain itu, kami juga menemukan \"Seri Anak Hebat : Aku Sayang Kakakku\" oleh Noor H. Dee yang memiliki vibe remaja dan keluarga. Buku ini juga memiliki latar rumah dan perkotaan. Buku ini tersedia di beberapa cabang perpustakaan kami, yaitu Perpustakaan Jakarta Barat - Tanjung Duren, Perpustakaan Jakarta Pusat - Petojo Enclek, Perpustakaan Jakarta Selatan - Gandaria Tengah, dan Perpustakaan Jakarta - Cikini.\n\nJika Anda ingin mencari buku lain dengan tokoh Naura, silakan hubungi kami untuk informasi lebih lanjut. Kami senang membantu!",
+      "contexts": [
+        "Judul: Seri Anak Hebat : Aku Mau Tidur Sendiri | Penulis: Nurhadiansyah, Teguh Affandi | Vibe: keluarga, anak-anak | Latar: rumah | Tersedia di: Perpustakaan Jakarta Barat - Tanjung Duren, Perpustakaan Jakarta Pusat - Petojo Enclek, Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Selatan - Gandaria Tengah | Sinopsis: \"Bunda, Naura mau tidur sendiri!\" Naura naik ke tempat tidur, merapikan selimut, dan mulai memejamkan mata. Setelah itu, Bunda mematikan lampu. \"Aaah ... gelap!\" Aduh, kira-kira Naura berani tidur sendiri tidak, ya?",
+        "Judul: Seri Anak Hebat :  Aku Belajar 123 | Penulis: Noor H.Dee | Vibe: belajar, pendidikan | Tersedia di: Perpustakaan Jakarta Barat - Tanjung Duren, Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Pusat - Petojo Enclek | Sinopsis: Belajar angka bersama Nabil dan Naura, yuk! Mengenal angka 1 sampai 10, menghitung dan menulis angka, mengenal warna dan gambar. Selain itu, buku ini juga dilengkapi dengan e-pen terbaru, sehingga proses belajar menjadi lebih seru! Oh iya, selalu ada permainan lucu di setiap halamannya, lho!",
+        "Judul: Aku Bilang Terima Kasih | Penulis: Noor H.Dee, Nurhadiansyah | Vibe: keluarga, kebaikan | Latar: rumah | Tersedia di: Perpustakaan Jakarta Pusat - Petojo Enclek, Perpustakaan Jakarta - Cikini, Perpustakaan Jakarta Timur - Jatinegara, Perpustakaan Jakarta Utara - Koja | Sinopsis: Nabil dan Naura shalat bersama Ayah dan Bunda. \"kalian memang anak saleh dan salehah!\" ujar Ayah. Nabil dan Naura tersenyum senang. \"TERIMA KASIH!''",
+        "Judul: Seri Anak Hebat : Aku Sayang Kakakku | Penulis: Noor H. Dee | Vibe: remaja, keluarga | Latar: rumah, perkotaan | Tersedia di: Perpustakaan Jakarta Barat - Tanjung Duren, Perpustakaan Jakarta Pusat - Petojo Enclek, Perpustakaan Jakarta Selatan - Gandaria Tengah, Perpustakaan Jakarta - Cikini | Sinopsis: Saat berada di minimarket, Naura membeli cokelat dan mainan. Masing-masing dua buah. \"Wah, kenapa semuanya dibeli dua, Naura?” tanya Bunda. Naura tersenyum lebar. Kenapa, ya?"
+      ],
+      "curated_titles": [
+        "Seri Anak Hebat : Aku Mau Tidur Sendiri",
+        "Seri Anak Hebat :  Aku Belajar 123",
+        "Aku Bilang Terima Kasih",
+        "Seri Anak Hebat : Aku Sayang Kakakku"
+      ],
+      "precision_at_3": 1.0,
+      "precision_at_5": 0.8,
+      "answer_contains_score": 1.0,
+      "tool_set_match": 1.0,
+      "tools_used": [
+        "books_by_character"
+      ],
+      "destructive_filter_calls": 0,
+      "reference_answer": "Ada 16 buku yang menampilkan tokoh Naura, contohnya: Aku Bilang Terima Kasih (book_100371), Aku Cinta Rasulullah (book_105467), Aku Naura :  100% Official (book_100469).",
+      "token_usage": {
+        "input_tokens": 5365,
+        "output_tokens": 508,
+        "total_tokens": 5873
+      }
+    },

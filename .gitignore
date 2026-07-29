@@ -1,0 +1,25 @@
+.env
+.venv/
+__pycache__/
+.idea/
+.vscode/
+.claude/
+
+*.zip
+
+
+# Streamlit frontend session memory
+.streamlit_sessions/
+
+# DeepEval telemetry (auto-generated, per-machine)
+.deepeval/
+
+deprecated/
+
+docs/
+
+evaluation/hasil_eval/
+evaluation/hasil_judge/
+evaluation/hasil_test/
+
+legacy/

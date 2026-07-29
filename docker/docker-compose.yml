@@ -1,0 +1,55 @@
+services:
+  # minio:
+  #   image: quay.io/minio/minio
+  #   ports:
+  #     - "9000:9000"
+  #     - "9001:9001"
+  #   environment:
+  #     MINIO_ROOT_USER: minioadmin
+  #     MINIO_ROOT_PASSWORD: minioadmin
+  #   command: server /data --console-address ":9001"
+  #   volumes:
+  #     - ./minio_data:/data
+
+  neo4j:
+    image: neo4j:5.25-community
+    container_name: neo4j-agentic-graphrag
+    ports:
+      - "7474:7474"   # Neo4j Browser (HTTP)
+      - "7687:7687"   # Bolt
+    environment:
+      # ${NEO4J_AUTH} is resolved from ../.env via `docker compose --env-file
+      # ../.env ...` (see docs/deployment.md) — NOT via `env_file:`, which
+      # would inject every var in .env (GROQ_API_KEY, HF_TOKEN, etc.) into
+      # this container's runtime environment unnecessarily.
+      - NEO4J_AUTH=${NEO4J_AUTH}
+      - NEO4J_PLUGINS=["apoc"]
+      - NEO4J_apoc_import_file_enabled=true
+      - NEO4J_apoc_export_file_enabled=true
+    volumes:
+      - ./neo4j_data:/data
+      - ./neo4j_logs:/logs
+      - ./neo4j_conf:/conf
+      - ../data_pipeline/gold:/var/lib/neo4j/import
+    deploy:
+      resources:
+        limits:
+          memory: 1.5g
+
+  # cloudflared:
+  #   image: cloudflare/cloudflared:latest
+  #   restart: always
+  #   command: tunnel --url tcp://neo4j-agentic-graphrag:7687
+  #   depends_on:
+  #     - neo4j    
+
+  # ngrok:
+  #   image: ngrok/ngrok:latest
+  #   restart: always
+  #   environment:
+  #     - NGROK_AUTHTOKEN=${NGROK_AUTHTOKEN}
+  #   command:
+  #     - "tcp"
+  #     - "neo4j-agentic-graphrag:7687" # Nama container Neo4j Anda + Port Bolt
+  #   depends_on:
+  #     - neo4j
